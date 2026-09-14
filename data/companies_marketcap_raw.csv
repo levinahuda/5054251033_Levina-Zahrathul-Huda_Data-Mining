@@ -1,0 +1,1503 @@
+rank_raw,nama_perusahaan_raw,market_cap_raw,harga_raw,perubahan_harian_raw,negara_raw
+1,NVIDIANVDA,$5.271 T,$218.29,0.03%,🇺🇸 USA
+2,AppleAAPL,$4.849 T,$332.27,1.75%,🇺🇸 USA
+3,Alphabet (Google)GOOG,$4.102 T,$335.45,1.53%,🇺🇸 USA
+4,MicrosoftMSFT,$3.680 T,$495.63,0.65%,🇺🇸 USA
+5,AmazonAMZN,$2.769 T,$256.78,1.94%,🇺🇸 USA
+6,TSMCTSM,$2.246 T,$433.24,1.22%,🇹🇼 Taiwan
+7,SpaceXSPCX,$1.993 T,$151.21,2.04%,🇺🇸 USA
+8,BroadcomAVGO,$1.728 T,$361.99,0.32%,🇺🇸 USA
+9,Saudi Aramco2222.SR,$1.657 T,$6.85,1.61%,🇸🇦 S. Arabia
+10,Meta Platforms (Facebook)META,$1.650 T,$648.03,0.57%,🇺🇸 USA
+11,TeslaTSLA,$1.443 T,$365.44,0.52%,🇺🇸 USA
+12,Samsung005930.KS,$1.226 T,$186.82,3.18%,🇰🇷 S. Korea
+13,Micron TechnologyMU,$1.101 T,$975.26,0.22%,🇺🇸 USA
+14,Berkshire HathawayBRK-B,$1.092 T,$510.37,0.66%,🇺🇸 USA
+15,Eli LillyLLY,$994.91 B,"$1,116",0.65%,🇺🇸 USA
+16,JPMorgan ChaseJPM,$946.92 B,$356.23,0.76%,🇺🇸 USA
+17,SK Hynix000660.KS,$904.15 B,"$1,274",5.46%,🇰🇷 S. Korea
+18,WalmartWMT,$852.70 B,$107.15,1.34%,🇺🇸 USA
+19,AMDAMD,$842.56 B,$516.13,2.49%,🇺🇸 USA
+20,VisaV,$691.64 B,$370.45,0.88%,🇺🇸 USA
+21,Exxon MobilXOM,$682.53 B,$165.99,0.46%,🇺🇸 USA
+22,ASMLASML,$652.31 B,"$1,698",0.64%,🇳🇱 Netherlands
+23,Johnson & JohnsonJNJ,$640.02 B,$265.58,0.29%,🇺🇸 USA
+24,CXMT688825.SS,$580.82 B,$8.20,3.03%,🇨🇳 China
+25,IntelINTC,$544.15 B,$102.94,2.61%,🇺🇸 USA
+26,MastercardMA,$498.61 B,$569.19,0.68%,🇺🇸 USA
+27,TencentTCEHY,$492.75 B,$54.55,1.32%,🇨🇳 China
+28,AbbVieABBV,$454.36 B,$257.12,0.83%,🇺🇸 USA
+29,CiscoCSCO,$442.08 B,$112.13,4.37%,🇺🇸 USA
+30,Bank of AmericaBAC,$438.37 B,$62.69,0.21%,🇺🇸 USA
+31,China Construction Bank601939.SS,$434.90 B,$1.66,1.18%,🇨🇳 China
+32,OracleORCL,$432.87 B,$150.28,1.74%,🇺🇸 USA
+33,ChevronCVX,$419.90 B,$214.06,0.61%,🇺🇸 USA
+34,PalantirPLTR,$401.86 B,$167.23,0.83%,🇺🇸 USA
+35,CostcoCOST,$401.24 B,$904.77,0.26%,🇺🇸 USA
+36,Coca-ColaKO,$379.87 B,$88.29,0.52%,🇺🇸 USA
+37,CaterpillarCAT,$376.27 B,$818.57,1.69%,🇺🇸 USA
+38,Lam ResearchLRCX,$373.16 B,$298.22,0.07%,🇺🇸 USA
+39,Agricultural Bank of China601288.SS,$365.27 B,$1.04,0.43%,🇨🇳 China
+40,Applied MaterialsAMAT,$362.26 B,$456.49,0.55%,🇺🇸 USA
+41,DellDELL,$360.69 B,$567.29,11.98%,🇺🇸 USA
+42,HSBCHSBC,$360.62 B,$105.30,1.54%,🇬🇧 UK
+43,MerckMRK,$355.10 B,$143.93,0.54%,🇺🇸 USA
+44,ICBC1398.HK,$346.07 B,$0.97,0.07%,🇨🇳 China
+45,RocheRO.SW,$343.80 B,$431.49,0.00%,🇨🇭 Switzerland
+46,UnitedHealthUNH,$340.26 B,$379.09,2.37%,🇺🇸 USA
+47,Procter & GamblePG,$337.41 B,$145.27,1.61%,🇺🇸 USA
+48,Morgan StanleyMS,$336.69 B,$214.38,0.81%,🇺🇸 USA
+49,General ElectricGE,$335.81 B,$323.66,0.15%,🇺🇸 USA
+50,NetflixNFLX,$322.28 B,$77.40,1.83%,🇺🇸 USA
+51,Bank of China601988.SS,$318.99 B,$0.99,1.07%,🇨🇳 China
+52,Home DepotHD,$308.02 B,$308.74,1.00%,🇺🇸 USA
+53,Goldman SachsGS,$299.66 B,"$1,029",0.92%,🇺🇸 USA
+54,Philip Morris InternationalPM,$297.78 B,$191.06,0.68%,🇺🇸 USA
+55,Royal Bank Of CanadaRY,$285.05 B,$205.90,0.04%,🇨🇦 Canada
+56,Arm HoldingsARM,$282.79 B,$264.79,4.17%,🇬🇧 UK
+57,ShellSHEL,$276.70 B,$96.77,0.84%,🇬🇧 UK
+58,Wells FargoWFC,$273.03 B,$90.29,0.94%,🇺🇸 USA
+59,AlibabaBABA,$271.67 B,$109.30,0.68%,🇨🇳 China
+60,Palo Alto NetworksPANW,$270.47 B,$330.65,2.32%,🇺🇸 USA
+61,Mitsubishi UFJ FinancialMUFG,$268.90 B,$23.89,2.58%,🇯🇵 Japan
+62,RTXRTX,$266.42 B,$197.68,0.22%,🇺🇸 USA
+63,NovartisNVS,$260.70 B,$137.16,0.23%,🇨🇭 Switzerland
+64,GE VernovaGEV,$254.95 B,$957.27,3.61%,🇺🇸 USA
+65,Arista NetworksANET,$251.72 B,$199.59,5.61%,🇺🇸 USA
+66,AstraZenecaAZN,$248.40 B,$160.17,0.33%,🇬🇧 UK
+67,Texas InstrumentsTXN,$245.38 B,$268.70,3.82%,🇺🇸 USA
+68,NestléNESN.SW,$244.07 B,$94.89,0.26%,🇨🇭 Switzerland
+69,SiemensSIE.DE,$239.33 B,$306.73,2.54%,🇩🇪 Germany
+70,SandiskSNDK,$239.15 B,"$1,633",3.50%,🇺🇸 USA
+71,SAPSAP,$238.18 B,$206.36,0.20%,🇩🇪 Germany
+72,Kweichow Moutai600519.SS,$238.16 B,$190.52,0.21%,🇨🇳 China
+73,LVMHMC.PA,$237.28 B,$481.34,2.16%,🇫🇷 France
+74,KLAKLAC,$236.01 B,$180.64,1.95%,🇺🇸 USA
+75,CATL300750.SZ,$235.23 B,$50.84,3.17%,🇨🇳 China
+76,PetroChina0857.HK,$234.77 B,$1.28,0.80%,🇨🇳 China
+77,ToyotaTM,$234.70 B,$198.20,2.97%,🇯🇵 Japan
+78,L'OréalOR.PA,$234.50 B,$440.25,1.14%,🇫🇷 France
+79,CitigroupC,$232.86 B,$138.82,0.23%,🇺🇸 USA
+80,MediaTek2454.TW,$230.21 B,$144.14,0.44%,🇹🇼 Taiwan
+81,IBMIBM,$229.21 B,$243.29,3.96%,🇺🇸 USA
+82,Thermo Fisher ScientificTMO,$225.47 B,$609.82,1.10%,🇺🇸 USA
+83,BHP GroupBHP,$221.48 B,$87.15,0.23%,🇦🇺 Australia
+84,American ExpressAXP,$219.26 B,$324.69,1.24%,🇺🇸 USA
+85,China Mobile0941.HK,$218.70 B,$10.09,0.25%,🇨🇳 China
+86,International Holding CompanyIHC.AE,$218.60 B,$99.66,0.27%,🇦🇪 UAE
+87,SantanderSAN,$217.13 B,$14.96,2.26%,🇪🇸 Spain
+88,SoftBank Group Corp.9984.T,$215.53 B,$37.82,11.09%,🇯🇵 Japan
+89,LindeLIN,$214.91 B,$466.22,1.00%,🇬🇧 UK
+90,Marvell TechnologyMRVL,$212.18 B,$236.10,4.03%,🇺🇸 USA
+91,CrowdStrikeCRWD,$211.68 B,$206.74,1.02%,🇺🇸 USA
+92,VerizonVZ,$210.27 B,$50.61,1.28%,🇺🇸 USA
+93,AmphenolAPH,$206.94 B,$83.92,4.57%,🇺🇸 USA
+94,AmgenAMGN,$204.00 B,$377.35,1.34%,🇺🇸 USA
+95,SalesforceCRM,$203.87 B,$247.72,1.94%,🇺🇸 USA
+96,TotalEnergiesTTE,$203.06 B,$91.89,0.72%,🇫🇷 France
+97,Toronto Dominion BankTD,$198.21 B,$120.97,0.69%,🇨🇦 Canada
+98,T-Mobile USTMUS,$195.58 B,$182.33,2.92%,🇺🇸 USA
+99,InditexITX.MC,$195.03 B,$62.61,1.03%,🇪🇸 Spain
+100,Allianz SEALV.DE,$194.43 B,$512.63,0.64%,🇩🇪 Germany
+101,QUALCOMMQCOM,$194.35 B,$181.97,2.88%,🇺🇸 USA
+102,Novo NordiskNVO,$190.32 B,$43.07,2.14%,🇩🇰 Denmark
+103,Schneider ElectricSU.PA,$190.07 B,$337.39,1.29%,🇫🇷 France
+104,Seagate TechnologySTX,$188.77 B,$830.17,3.73%,🇮🇪 Ireland
+105,PepsicoPEP,$186.21 B,$136.32,0.24%,🇺🇸 USA
+106,Charles SchwabSCHW,$185.47 B,$107.25,0.07%,🇺🇸 USA
+107,Commonwealth BankCBA.AX,$184.73 B,$110.50,0.19%,🇦🇺 Australia
+108,Walt DisneyDIS,$183.97 B,$106.55,0.69%,🇺🇸 USA
+109,Foxconn Industrial Internet601138.SS,$183.79 B,$9.26,3.04%,🇨🇳 China
+110,Analog DevicesADI,$183.54 B,$378.78,4.85%,🇺🇸 USA
+111,AirbusAIR.PA,$182.91 B,$231.11,1.85%,🇳🇱 Netherlands
+112,Deere & Company (John Deere)DE,$182.19 B,$675.74,0.32%,🇺🇸 USA
+113,ProsusPRX.AS,$180.36 B,$41.28,0.91%,🇳🇱 Netherlands
+114,McDonaldMCD,$178.70 B,$252.53,0.21%,🇺🇸 USA
+115,AT&TT,$178.57 B,$26.06,2.00%,🇺🇸 USA
+116,Gilead SciencesGILD,$178.20 B,$143.72,0.75%,🇺🇸 USA
+117,Reliance IndustriesRELIANCE.NS,$178.11 B,$13.16,1.30%,🇮🇳 India
+118,Abbott LaboratoriesABT,$176.41 B,$101.95,1.36%,🇺🇸 USA
+119,KIOXIA Holdings Corporation285A.T,$175.90 B,$330.33,6.00%,🇯🇵 Japan
+120,BlackRockBLK,$175.41 B,"$1,080",1.62%,🇺🇸 USA
+121,ABBABBN.SW,$174.35 B,$96.26,1.03%,🇨🇭 Switzerland
+122,DBS GroupD05.SI,$173.48 B,$61.00,0.45%,🇸🇬 Singapore
+123,Sumitomo Mitsui Financial GroupSMFG,$172.81 B,$27.29,2.79%,🇯🇵 Japan
+124,Nextera EnergyNEE,$171.69 B,$82.31,0.16%,🇺🇸 USA
+125,HermèsRMS.PA,$169.89 B,"$1,622",0.67%,🇫🇷 France
+126,WelltowerWELL,$169.78 B,$235.62,0.04%,🇺🇸 USA
+127,Union Pacific CorporationUNP,$168.95 B,$284.40,0.48%,🇺🇸 USA
+128,CM Bank3968.HK,$168.50 B,$6.68,0.87%,🇨🇳 China
+129,ShopifySHOP,$167.12 B,$128.79,1.73%,🇨🇦 Canada
+130,UBSUBS,$167.10 B,$54.58,1.06%,🇨🇭 Switzerland
+131,BoeingBA,$166.33 B,$210.45,2.76%,🇺🇸 USA
+132,EatonETN,$165.21 B,$425.37,3.96%,🇮🇪 Ireland
+133,ConocoPhillipsCOP,$165.00 B,$137.35,0.23%,🇺🇸 USA
+134,Southern CopperSCCO,$163.37 B,$193.49,0.33%,🇺🇸 USA
+135,Banco Bilbao Vizcaya ArgentariaBBVA,$163.06 B,$29.55,2.46%,🇪🇸 Spain
+136,Rio TintoRIO,$162.57 B,$99.96,0.57%,🇬🇧 UK
+137,Rolls-Royce HoldingsRR.L,$162.03 B,$19.66,1.72%,🇬🇧 UK
+138,Western DigitalWDC,$161.22 B,$447.18,2.98%,🇺🇸 USA
+139,China Life Insurance601628.SS,$160.47 B,$5.68,0.24%,🇨🇳 China
+140,SafranSAF.PA,$158.58 B,$382.71,2.55%,🇫🇷 France
+141,Deutsche TelekomDTE.DE,$158.47 B,$33.14,2.55%,🇩🇪 Germany
+142,PfizerPFE,$157.99 B,$27.72,0.25%,🇺🇸 USA
+143,UniCreditUCG.MI,$157.40 B,$98.71,1.63%,🇮🇹 Italy
+144,IberdrolaIBE.MC,$155.92 B,$23.37,0.70%,🇪🇸 Spain
+145,Interactive BrokersIBKR,$155.67 B,$91.37,2.18%,🇺🇸 USA
+146,Hitachi6501.T,$155.25 B,$34.69,2.58%,🇯🇵 Japan
+147,Anheuser-Busch InbevBUD,$154.04 B,$78.23,0.75%,🇧🇪 Belgium
+148,Blackstone GroupBX,$153.60 B,$128.51,2.47%,🇺🇸 USA
+149,Zhongji Innolight300308.SZ,$153.50 B,$131.23,4.95%,🇨🇳 China
+150,China Shenhua Energy601088.SS,$152.93 B,$7.05,0.46%,🇨🇳 China
+151,Tokyo Electron8035.T,$151.36 B,$333.20,0.45%,🇯🇵 Japan
+152,CNOOC0883.HK,$149.45 B,$3.14,1.15%,🇨🇳 China
+153,Ping An Insurance601318.SS,$148.14 B,$8.18,0.07%,🇨🇳 China
+154,Recruit6098.T,$147.46 B,$106.18,5.32%,🇯🇵 Japan
+155,UberUBER,$146.39 B,$71.67,1.23%,🇺🇸 USA
+156,Advantest6857.T,$145.39 B,$201.30,2.43%,🇯🇵 Japan
+157,CorningGLW,$143.33 B,$166.40,2.01%,🇺🇸 USA
+158,Siemens EnergyENR.F,$141.67 B,$166.50,2.19%,🇩🇪 Germany
+159,DanaherDHR,$140.69 B,$200.14,0.19%,🇺🇸 USA
+160,SonySONY,$139.62 B,$23.90,1.62%,🇯🇵 Japan
+161,TJX CompaniesTJX,$138.61 B,$126.02,0.32%,🇺🇸 USA
+162,Mizuho Financial GroupMFG,$138.57 B,$11.45,3.53%,🇯🇵 Japan
+163,Intesa SanpaoloISP.MI,$137.68 B,$7.92,2.55%,🇮🇹 Italy
+164,ServiceNowNOW,$137.01 B,$132.53,1.04%,🇺🇸 USA
+165,PetrobrasPBR,$136.62 B,$21.20,0.84%,🇧🇷 Brazil
+166,NewmontNEM,$133.61 B,$126.81,0.53%,🇺🇸 USA
+167,UnileverUL,$133.54 B,$62.02,0.63%,🇬🇧 UK
+168,Fast Retailing9983.T,$133.47 B,$434.98,0.60%,🇯🇵 Japan
+169,Delta Electronics2308.TW,$132.86 B,$51.15,0.00%,🇹🇼 Taiwan
+170,Intuitive SurgicalISRG,$132.25 B,$369.15,2.41%,🇺🇸 USA
+171,PrologisPLD,$131.96 B,$135.75,1.00%,🇺🇸 USA
+172,BNP ParibasBNP.PA,$131.80 B,$120.26,1.09%,🇫🇷 France
+173,Booking Holdings (Booking.com)BKNG,$130.68 B,$173.92,0.01%,🇺🇸 USA
+174,Vertex PharmaceuticalsVRTX,$130.64 B,$515.44,0.17%,🇺🇸 USA
+175,ChubbCB,$130.49 B,$338.25,0.18%,🇨🇭 Switzerland
+176,Bristol-Myers SquibbBMY,$129.99 B,$63.64,0.17%,🇺🇸 USA
+177,Zijin Mining601899.SS,$128.25 B,$4.82,0.28%,🇨🇳 China
+178,Capital OneCOF,$127.78 B,$208.30,0.57%,🇺🇸 USA
+179,Investor ABINVE-B.ST,$126.91 B,$41.43,0.05%,🇸🇪 Sweden
+180,ProgressivePGR,$126.45 B,$217.62,0.66%,🇺🇸 USA
+181,Compagnie Financière RichemontCFR.SW,$125.91 B,$214.16,1.21%,🇨🇭 Switzerland
+182,Air LiquideAI.PA,$123.16 B,$193.00,0.16%,🇫🇷 France
+183,Bank of MontrealBMO,$121.55 B,$174.88,0.69%,🇨🇦 Canada
+184,S&P GlobalSPGI,$121.07 B,$410.71,0.07%,🇺🇸 USA
+185,CVS HealthCVS,$121.06 B,$94.66,0.66%,🇺🇸 USA
+186,Lockheed MartinLMT,$120.97 B,$524.19,1.12%,🇺🇸 USA
+187,Mitsubishi Corporation8058.T,$120.07 B,$32.79,0.74%,🇯🇵 Japan
+188,Keyence6861.T,$119.92 B,$494.49,0.04%,🇯🇵 Japan
+189,HDFC BankHDB,$119.92 B,$23.34,6.87%,🇮🇳 India
+190,Parker-HannifinPH,$119.77 B,$950.23,1.70%,🇺🇸 USA
+191,Bharti AirtelBHARTIARTL.NS,$119.56 B,$19.17,0.43%,🇮🇳 India
+192,British American TobaccoBTI,$118.95 B,$55.24,0.69%,🇬🇧 UK
+193,BPBP,$118.72 B,$46.10,0.04%,🇬🇧 UK
+194,BYD002594.SZ,$116.59 B,$12.79,2.11%,🇨🇳 China
+195,MedtronicMDT,$116.35 B,$90.96,0.72%,🇮🇪 Ireland
+196,SnowflakeSNOW,$116.06 B,$328.99,0.22%,🇺🇸 USA
+197,Altria GroupMO,$115.17 B,$68.98,0.28%,🇺🇸 USA
+198,FortinetFTNT,$114.51 B,$156.07,1.75%,🇺🇸 USA
+199,ScotiabankBNS,$113.89 B,$93.45,0.66%,🇨🇦 Canada
+200,OCBC BankO39.SI,$112.80 B,$25.09,0.70%,🇸🇬 Singapore
+201,StarbucksSBUX,$112.56 B,$98.74,0.48%,🇺🇸 USA
+202,AccentureACN,$112.53 B,$183.90,3.37%,🇮🇪 Ireland
+203,Valero EnergyVLO,$112.41 B,$390.42,1.29%,🇺🇸 USA
+204,Marathon PetroleumMPC,$111.18 B,$395.93,0.89%,🇺🇸 USA
+205,PDD Holdings (Pinduoduo)PDD,$110.75 B,$77.81,0.04%,🇨🇳 China
+206,Lowe's CompaniesLOW,$110.42 B,$196.82,0.12%,🇺🇸 USA
+207,BNY Mellon (Bank of New York Mellon)BNY,$110.36 B,$162.66,0.04%,🇺🇸 USA
+208,Foxconn (Hon Hai Precision Industry)2317.TW,$109.93 B,$7.85,0.20%,🇹🇼 Taiwan
+209,CloudflareNET,$109.14 B,$306.53,1.49%,🇺🇸 USA
+210,AppLovinAPP,$108.83 B,$323.96,3.01%,🇺🇸 USA
+211,SpotifySPOT,$108.08 B,$525.75,0.77%,🇸🇪 Sweden
+212,Zurich Insurance GroupZURN.SW,$107.51 B,$719.81,0.51%,🇨🇭 Switzerland
+213,CaixaBankCABK.MC,$107.44 B,$15.47,0.87%,🇪🇸 Spain
+214,Itōchū Shōji8001.T,$107.26 B,$15.35,2.86%,🇯🇵 Japan
+215,Automatic Data ProcessingADP,$106.56 B,$268.26,0.99%,🇺🇸 USA
+216,EquinorEQNR,$106.26 B,$44.80,0.69%,🇳🇴 Norway
+217,INGING,$106.23 B,$37.27,1.64%,🇳🇱 Netherlands
+218,Stryker CorporationSYK,$105.69 B,$275.56,2.06%,🇺🇸 USA
+219,ICICI BankIBN,$105.47 B,$29.39,1.87%,🇮🇳 India
+220,AXACS.PA,$104.66 B,$50.06,0.51%,🇫🇷 France
+221,EnbridgeENB,$104.31 B,$47.76,0.95%,🇨🇦 Canada
+222,Al Rajhi Bank1120.SR,$104.20 B,$17.37,1.21%,🇸🇦 S. Arabia
+223,CIBC (Canadian Imperial Bank of Commerce)CM,$104.08 B,$114.64,0.15%,🇨🇦 Canada
+224,Phillips 66PSX,$104.03 B,$259.47,0.37%,🇺🇸 USA
+225,China Yangtze Power600900.SS,$103.97 B,$4.25,0.18%,🇨🇳 China
+226,Canadian Natural ResourcesCNQ,$103.21 B,$50.07,0.55%,🇨🇦 Canada
+227,EnelENEL.MI,$102.98 B,$10.38,0.27%,🇮🇹 Italy
+228,McKessonMCK,$102.77 B,$881.51,0.07%,🇺🇸 USA
+229,ASE GroupASX,$102.76 B,$39.47,0.98%,🇹🇼 Taiwan
+230,SanofiSNY,$102.48 B,$42.77,0.12%,🇫🇷 France
+231,EquinixEQIX,$102.39 B,"$1,038",1.36%,🇺🇸 USA
+232,Freeport-McMoRanFCX,$102.05 B,$71.07,0.20%,🇺🇸 USA
+233,AirbnbABNB,$101.90 B,$170.19,1.52%,🇺🇸 USA
+234,Tokio Marine8766.T,$101.78 B,$53.58,3.36%,🇯🇵 Japan
+235,Agnico Eagle MinesAEM,$101.45 B,$200.36,1.87%,🇨🇦 Canada
+236,RobinhoodHOOD,$101.20 B,$112.57,0.67%,🇺🇸 USA
+237,Constellation EnergyCEG,$100.88 B,$284.75,0.43%,🇺🇸 USA
+238,Southern CompanySO,$100.27 B,$87.17,0.66%,🇺🇸 USA
+239,AdobeADBE,$100.26 B,$252.23,1.37%,🇺🇸 USA
+240,Grupo MéxicoGMBXF,$100.16 B,$12.80,1.54%,🇲🇽 Mexico
+241,Bank of Communications601328.SS,$99.73 B,$1.13,1.20%,🇨🇳 China
+242,SK Square402340.KS,$99.37 B,$753.97,6.89%,🇰🇷 S. Korea
+243,CME GroupCME,$99.07 B,$275.54,0.54%,🇺🇸 USA
+244,Midea000333.SZ,$98.99 B,$12.98,0.89%,🇨🇳 China
+245,Vertiv HoldingsVRT,$98.96 B,$257.06,3.60%,🇺🇸 USA
+246,AIA1299.HK,$98.59 B,$9.57,0.00%,🇭🇰 Hong Kong
+247,Cambricon Technologies688256.SS,$98.16 B,$156.10,0.67%,🇨🇳 China
+248,U.S. BancorpUSB,$97.90 B,$62.84,0.69%,🇺🇸 USA
+249,Quanta ServicesPWR,$97.81 B,$650.58,5.15%,🇺🇸 USA
+250,Postal Savings Bank of China601658.SS,$97.58 B,$0.81,0.18%,🇨🇳 China
+251,Sinopec600028.SS,$97.55 B,$0.81,1.81%,🇨🇳 China
+252,PNC Financial ServicesPNC,$97.43 B,$244.24,0.52%,🇺🇸 USA
+253,Trane TechnologiesTT,$97.36 B,$442.52,0.61%,🇮🇪 Ireland
+254,Delta Electronics (Thailand)DELTA.BK,$96.50 B,$7.74,3.03%,🇹🇭 Thailand
+255,GSK plcGSK,$96.39 B,$48.13,0.02%,🇬🇧 UK
+256,General DynamicsGD,$96.29 B,$355.90,0.47%,🇺🇸 USA
+257,State Bank of IndiaSBIN.NS,$96.19 B,$10.42,1.39%,🇮🇳 India
+258,MercadoLibreMELI,$96.19 B,"$1,897",0.47%,🇦🇷 Argentina
+259,Mitsui Bussan8031.T,$95.80 B,$33.71,2.43%,🇯🇵 Japan
+260,GlencoreGLCNF,$95.75 B,$8.16,0.62%,🇨🇭 Switzerland
+261,KKR & Co.KKR,$93.35 B,$101.08,0.21%,🇺🇸 USA
+262,NTT (Nippon Telegraph & Telephone)9432.T,$93.17 B,$1.15,0.63%,🇯🇵 Japan
+263,Duke EnergyDUK,$93.11 B,$119.42,0.04%,🇺🇸 USA
+264,HCA HealthcareHCA,$92.43 B,$426.94,1.36%,🇺🇸 USA
+265,Itaú UnibancoITUB,$91.81 B,$8.33,0.36%,🇧🇷 Brazil
+266,Howmet AerospaceHWM,$91.56 B,$229.61,0.75%,🇺🇸 USA
+267,Elevance HealthELV,$90.80 B,$418.72,0.52%,🇺🇸 USA
+268,CSX CorporationCSX,$90.67 B,$48.95,0.18%,🇺🇸 USA
+269,BarclaysBCS,$89.50 B,$26.70,1.87%,🇬🇧 UK
+270,ComcastCMCSA,$89.42 B,$25.20,0.12%,🇺🇸 USA
+271,Williams CompaniesWMB,$89.10 B,$72.85,0.77%,🇺🇸 USA
+272,Johnson ControlsJCI,$88.44 B,$146.01,2.24%,🇮🇪 Ireland
+273,Intercontinental ExchangeICE,$88.36 B,$157.40,1.02%,🇺🇸 USA
+274,InfineonIFX.DE,$88.19 B,$67.87,4.95%,🇩🇪 Germany
+275,Atlas CopcoATCO-B.ST,$87.93 B,$18.02,0.34%,🇸🇪 Sweden
+276,DoorDashDASH,$87.50 B,$201.95,0.46%,🇺🇸 USA
+277,Marriott InternationalMAR,$87.27 B,$334.69,1.71%,🇺🇸 USA
+278,Lloyds Banking GroupLYG,$86.80 B,$6.01,2.04%,🇬🇧 UK
+279,XiaomiXIACF,$86.44 B,$3.36,2.04%,🇨🇳 China
+280,IntuitINTU,$85.93 B,$321.57,2.81%,🇺🇸 USA
+281,Waste ManagementWM,$85.32 B,$213.46,0.17%,🇺🇸 USA
+282,Brookfield CorporationBN,$85.32 B,$38.22,0.45%,🇨🇦 Canada
+283,United Parcel ServiceUPS,$85.31 B,$100.28,0.31%,🇺🇸 USA
+284,3MMMM,$85.07 B,$164.97,1.30%,🇺🇸 USA
+285,Monster BeverageMNST,$85.02 B,$43.40,0.72%,🇺🇸 USA
+286,EmersonEMR,$84.89 B,$152.19,2.57%,🇺🇸 USA
+287,National Australia BankNAB.AX,$84.48 B,$27.60,0.35%,🇦🇺 Australia
+288,Marsh & McLennan CompaniesMRSH,$84.42 B,$176.91,0.21%,🇺🇸 USA
+289,Eoptolink Technology300502.SZ,$84.35 B,$60.50,4.08%,🇨🇳 China
+290,Enterprise ProductsEPD,$84.00 B,$38.90,1.09%,🇺🇸 USA
+291,Westpac BankingWBC.AX,$83.99 B,$24.60,0.50%,🇦🇺 Australia
+292,Murata Manufacturing (Murata Seisakusho)6981.T,$83.95 B,$46.31,3.14%,🇯🇵 Japan
+293,Tata Consultancy ServicesTCS.NS,$83.34 B,$23.04,0.15%,🇮🇳 India
+294,SLB (Schlumberger)SLB,$83.20 B,$56.06,0.09%,🇺🇸 USA
+295,LumentumLITE,$83.15 B,$927.03,0.93%,🇺🇸 USA
+296,American TowerAMT,$82.87 B,$177.85,2.82%,🇺🇸 USA
+297,Hewlett Packard EnterpriseHPE,$82.42 B,$62.09,12.44%,🇺🇸 USA
+298,Moody'sMCO,$82.25 B,$474.95,1.62%,🇺🇸 USA
+299,Mitsubishi Heavy Industries7011.T,$81.91 B,$24.38,1.16%,🇯🇵 Japan
+300,TAQATAQA.AE,$81.43 B,$0.72,0.37%,🇦🇪 UAE
+301,Suncor EnergySU,$81.27 B,$68.83,0.15%,🇨🇦 Canada
+302,Bloom EnergyBE,$81.21 B,$275.75,6.68%,🇺🇸 USA
+303,CintasCTAS,$80.63 B,$201.50,1.54%,🇺🇸 USA
+304,ANZ BankANZ.AX,$80.57 B,$26.76,0.39%,🇦🇺 Australia
+305,ENIE,$80.57 B,$56.05,0.66%,🇮🇹 Italy
+306,Regeneron PharmaceuticalsREGN,$80.45 B,$781.49,1.48%,🇺🇸 USA
+307,Mondelez InternationalMDLZ,$79.69 B,$62.44,0.05%,🇺🇸 USA
+308,Cadence Design SystemsCDNS,$79.69 B,$289.37,1.55%,🇺🇸 USA
+309,DatadogDDOG,$79.43 B,$221.21,0.23%,🇺🇸 USA
+310,DiorCDI.PA,$79.12 B,$438.57,1.67%,🇫🇷 France
+311,GeneraliG.MI,$78.83 B,$52.25,0.81%,🇮🇹 Italy
+312,Sherwin-WilliamsSHW,$78.48 B,$323.31,1.85%,🇺🇸 USA
+313,CPKC (Canadian Pacific Kansas City)CP,$78.44 B,$89.23,0.44%,🇨🇦 Canada
+314,The Travelers CompaniesTRV,$78.25 B,$375.20,2.08%,🇺🇸 USA
+315,EssilorLuxotticaEL.PA,$77.83 B,$169.68,0.38%,🇫🇷 France
+316,Simon Property GroupSPG,$77.75 B,$204.83,0.08%,🇺🇸 USA
+317,Japan Tobacco2914.T,$77.75 B,$43.80,0.61%,🇯🇵 Japan
+318,SoftBank Corp.9434.T,$77.62 B,$1.62,1.05%,🇯🇵 Japan
+319,General MotorsGM,$77.43 B,$85.62,0.58%,🇺🇸 USA
+320,EcolabECL,$77.42 B,$276.18,1.69%,🇺🇸 USA
+321,EOG ResourcesEOG,$77.29 B,$147.36,0.07%,🇺🇸 USA
+322,National GridNGG,$77.27 B,$76.86,0.63%,🇬🇧 UK
+323,Motorola SolutionsMSI,$77.14 B,$466.16,0.49%,🇺🇸 USA
+324,CarvanaCVNA,$76.66 B,$69.16,1.59%,🇺🇸 USA
+325,Japan Post Bank7182.T,$76.65 B,$21.52,0.58%,🇯🇵 Japan
+326,CumminsCMI,$76.64 B,$556.75,1.22%,🇺🇸 USA
+327,Illinois Tool WorksITW,$76.37 B,$268.16,1.12%,🇺🇸 USA
+328,WuXi AppTec2359.HK,$76.21 B,$25.18,4.61%,🇨🇳 China
+329,Apollo Global ManagementAPO,$76.16 B,$128.98,0.84%,🇺🇸 USA
+330,SynopsysSNPS,$76.15 B,$397.38,0.05%,🇺🇸 USA
+331,Deutsche BankDB,$76.06 B,$40.48,0.32%,🇩🇪 Germany
+332,Brookfield Asset ManagementBAM,$75.48 B,$47.26,0.04%,🇨🇦 Canada
+333,BAE SystemsBA.L,$75.12 B,$25.66,1.33%,🇬🇧 UK
+334,NatWest GroupNWG,$74.96 B,$18.89,2.55%,🇬🇧 UK
+335,CITIC Bank601998.SS,$74.25 B,$1.33,0.34%,🇨🇳 China
+336,Energy Transfer LPET,$74.20 B,$21.55,0.83%,🇺🇸 USA
+337,The Cigna GroupCI,$74.18 B,$280.76,0.05%,🇺🇸 USA
+338,NetEaseNTES,$74.01 B,$115.61,0.02%,🇨🇳 China
+339,Ross StoresROST,$74.01 B,$230.74,2.33%,🇺🇸 USA
+340,Canadian National RailwayCNI,$73.94 B,$122.25,0.90%,🇨🇦 Canada
+341,FedExFDX,$73.83 B,$311.99,0.06%,🇺🇸 USA
+342,Northrop GrummanNOC,$73.72 B,$518.97,0.00%,🇺🇸 USA
+343,KDDI9433.T,$73.43 B,$19.87,0.79%,🇯🇵 Japan
+344,Munich RE (Münchener Rück)MUV2.DE,$73.40 B,$583.45,1.08%,🇩🇪 Germany
+345,SberbankSBER.ME,$72.85 B,$3.36,0.02%,🇷🇺 Russia
+346,FerrariRACE,$72.68 B,$413.78,1.26%,🇮🇹 Italy
+347,Manulife FinancialMFC,$72.16 B,$43.49,0.02%,🇨🇦 Canada
+348,Hyundai005380.KS,$72.13 B,$275.49,3.14%,🇰🇷 S. Korea
+349,Norfolk SouthernNSC,$71.93 B,$320.27,0.94%,🇺🇸 USA
+350,Barrick GoldB,$71.89 B,$43.68,0.51%,🇨🇦 Canada
+351,Bank of China (Hong Kong)2388.HK,$71.65 B,$6.78,1.63%,🇭🇰 Hong Kong
+352,VinciDG.PA,$71.42 B,$129.17,0.81%,🇫🇷 France
+353,Volvo GroupVOLV-A.ST,$71.31 B,$35.07,0.53%,🇸🇪 Sweden
+354,Digital RealtyDLR,$71.21 B,$188.58,1.73%,🇺🇸 USA
+355,TargetTGT,$70.79 B,$155.83,0.06%,🇺🇸 USA
+356,DHL Group (Deutsche Post)DHL.DE,$70.78 B,$63.77,0.15%,🇩🇪 Germany
+357,Nu HoldingsNU,$70.62 B,$14.62,2.66%,🇧🇷 Brazil
+358,ENGIEENGI.PA,$70.61 B,$27.79,1.32%,🇫🇷 France
+359,Warner Bros. DiscoveryWBD,$70.30 B,$28.04,0.57%,🇺🇸 USA
+360,Nordea BankNDA-FI.HE,$70.09 B,$20.65,0.73%,🇫🇮 Finland
+361,Wheaton Precious MetalsWPM,$69.99 B,$154.12,2.08%,🇨🇦 Canada
+362,Royal Caribbean GroupRCL,$69.57 B,$260.14,0.44%,🇺🇸 USA
+363,O'Reilly AutomotiveORLY,$69.42 B,$85.82,0.36%,🇺🇸 USA
+364,Colgate-PalmoliveCL,$69.19 B,$86.80,1.25%,🇺🇸 USA
+365,Vingroup CompanyVIC.VN,$69.11 B,$9.22,1.81%,🇻🇳 Vietnam
+366,Hilton WorldwideHLT,$68.91 B,$306.19,0.02%,🇺🇸 USA
+367,Kinder MorganKMI,$68.71 B,$30.86,0.29%,🇺🇸 USA
+368,ADNOC GasADNOCGAS.AE,$68.54 B,$0.89,0.00%,🇦🇪 UAE
+369,Chugai Pharmaceutical4519.T,$68.47 B,$41.61,0.37%,🇯🇵 Japan
+370,America MovilAMX,$68.29 B,$22.83,0.04%,🇲🇽 Mexico
+371,NAURA Technology Group002371.SZ,$68.23 B,$94.03,0.52%,🇨🇳 China
+372,Republic ServicesRSG,$68.20 B,$222.74,0.75%,🇺🇸 USA
+373,Mitsubishi Electric6503.T,$68.13 B,$33.29,1.83%,🇯🇵 Japan
+374,Standard CharteredSTAN.L,$67.70 B,$31.06,1.23%,🇬🇧 UK
+375,Shin-Etsu Chemical4063.T,$67.53 B,$37.21,0.30%,🇯🇵 Japan
+376,Bajaj FinanceBAJFINANCE.NS,$67.35 B,$10.83,0.86%,🇮🇳 India
+377,SMIC0981.HK,$67.30 B,$7.86,2.38%,🇨🇳 China
+378,American Electric PowerAEP,$67.14 B,$123.33,0.11%,🇺🇸 USA
+379,Macquarie Group LimitedMQG.AX,$66.87 B,$175.47,0.03%,🇦🇺 Australia
+380,Merck KGaAMRK.DE,$66.23 B,$152.35,0.15%,🇩🇪 Germany
+381,Ma'aden1211.SR,$66.07 B,$17.02,3.18%,🇸🇦 S. Arabia
+382,Fubon Financial2881.TW,$66.01 B,$4.83,3.03%,🇹🇼 Taiwan
+383,Crédit AgricoleACA.PA,$65.58 B,$21.59,0.46%,🇫🇷 France
+384,The Saudi National Bank1180.SR,$65.16 B,$10.98,0.91%,🇸🇦 S. Arabia
+385,Sea LimitedSE,$65.07 B,$106.24,1.35%,🇸🇬 Singapore
+386,Air Products and ChemicalsAPD,$64.89 B,$291.43,0.76%,🇺🇸 USA
+387,ValeVALE,$64.81 B,$15.23,0.33%,🇧🇷 Brazil
+388,Imperial OilIMO,$64.63 B,$129.99,0.63%,🇨🇦 Canada
+389,PaccarPCAR,$64.60 B,$122.73,0.13%,🇺🇸 USA
+390,AonAON,$64.20 B,$302.69,1.65%,🇬🇧 UK
+391,AllstateALL,$64.15 B,$253.71,0.76%,🇺🇸 USA
+392,HoneywellHON,$64.13 B,$202.36,0.09%,🇺🇸 USA
+393,Hong Kong Exchanges & Clearing0388.HK,$63.95 B,$50.60,1.07%,🇭🇰 Hong Kong
+394,Panasonic6752.T,$63.55 B,$27.22,0.36%,🇯🇵 Japan
+395,TC EnergyTRP,$63.42 B,$60.88,1.66%,🇨🇦 Canada
+396,Société GénéraleGLE.PA,$63.26 B,$86.60,1.14%,🇫🇷 France
+397,TransDigm GroupTDG,$63.03 B,"$1,140",1.19%,🇺🇸 USA
+398,Nintendo7974.T,$62.52 B,$53.53,1.69%,🇯🇵 Japan
+399,NokiaNOK,$62.31 B,$11.13,4.80%,🇫🇮 Finland
+400,Boston ScientificBSX,$62.28 B,$42.98,0.28%,🇺🇸 USA
+401,Targa ResourcesTRGP,$62.23 B,$290.25,0.57%,🇺🇸 USA
+402,CITIC Securities600030.SS,$62.15 B,$3.98,0.89%,🇨🇳 China
+403,MetLifeMET,$61.73 B,$97.14,0.37%,🇺🇸 USA
+404,Arthur J. Gallagher & Co.AJG,$61.60 B,$240.32,1.23%,🇺🇸 USA
+405,Truist Financial CorporationTFC,$61.56 B,$50.40,0.14%,🇺🇸 USA
+406,United RentalsURI,$61.56 B,$989.12,0.00%,🇺🇸 USA
+407,Occidental PetroleumOXY,$61.43 B,$61.46,0.49%,🇺🇸 USA
+408,LG Energy Solution373220.KS,$61.41 B,$262.48,1.94%,🇰🇷 S. Korea
+409,TE ConnectivityTEL,$61.36 B,$211.96,3.58%,🇨🇭 Switzerland
+410,CencoraCOR,$61.36 B,$321.57,0.19%,🇺🇸 USA
+411,Luxshare Precision002475.SZ,$61.28 B,$7.92,4.10%,🇨🇳 China
+412,ArgenxARGX,$61.21 B,$984.39,0.04%,🇳🇱 Netherlands
+413,Cenovus EnergyCVE,$61.06 B,$33.11,0.69%,🇨🇦 Canada
+414,Nebius GroupNBIS,$61.04 B,$224.55,1.56%,🇳🇱 Netherlands
+415,OneokOKE,$60.90 B,$96.62,0.94%,🇺🇸 USA
+416,MPLXMPLX,$60.66 B,$59.84,0.35%,🇺🇸 USA
+417,Monolithic Power SystemsMPWR,$60.66 B,"$1,234",4.08%,🇺🇸 USA
+418,W. W. GraingerGWW,$60.28 B,"$1,280",0.67%,🇺🇸 USA
+419,KBCKBCSF,$60.20 B,$150.90,0.00%,🇧🇪 Belgium
+420,Great-West LifecoGWO.TO,$59.81 B,$66.82,1.65%,🇨🇦 Canada
+421,Coherent Corp.COHR,$59.80 B,$305.37,4.16%,🇺🇸 USA
+422,NXP SemiconductorsNXPI,$59.66 B,$236.62,4.48%,🇳🇱 Netherlands
+423,Comfort Systems USAFIX,$59.50 B,"$1,691",6.29%,🇺🇸 USA
+424,TeradyneTER,$59.36 B,$379.72,2.57%,🇺🇸 USA
+425,WesfarmersWES.AX,$59.11 B,$52.07,0.03%,🇦🇺 Australia
+426,Nan Ya Plastics1303.TW,$58.97 B,$7.44,0.43%,🇹🇼 Taiwan
+427,National Bank of CanadaNA.TO,$58.91 B,$152.97,0.69%,🇨🇦 Canada
+428,Cement Roadstone HoldingCRH,$58.91 B,$88.55,1.02%,🇮🇪 Ireland
+429,NucorNUE,$58.85 B,$259.43,1.55%,🇺🇸 USA
+430,RELXRELX,$58.83 B,$33.80,0.06%,🇬🇧 UK
+431,CSLCSL.AX,$58.79 B,$122.52,2.51%,🇦🇺 Australia
+432,Baker HughesBKR,$58.62 B,$59.06,0.57%,🇺🇸 USA
+433,First Abu Dhabi BankFAB.AE,$58.59 B,$5.30,1.52%,🇦🇪 UAE
+434,Takeda PharmaceuticalTAK,$58.31 B,$18.26,0.83%,🇯🇵 Japan
+435,Saudi Telecom Company7010.SR,$58.21 B,$11.67,0.14%,🇸🇦 S. Arabia
+436,AflacAFL,$57.79 B,$115.28,0.71%,🇺🇸 USA
+437,Anglo AmericanAAL.L,$57.78 B,$53.93,0.45%,🇬🇧 UK
+438,Deutsche BörseDB1.DE,$57.73 B,$320.24,1.22%,🇩🇪 Germany
+439,KeysightKEYS,$57.65 B,$338.64,3.99%,🇺🇸 USA
+440,Cheniere EnergyLNG,$57.48 B,$278.34,0.18%,🇺🇸 USA
+441,ModernaMRNA,$57.47 B,$143.97,5.38%,🇺🇸 USA
+442,Diamondback EnergyFANG,$57.39 B,$204.97,0.20%,🇺🇸 USA
+443,SingtelZ74.SI,$57.09 B,$3.50,1.33%,🇸🇬 Singapore
+444,Nongfu Spring9633.HK,$57.01 B,$5.07,0.66%,🇨🇳 China
+445,Industrial Bank601166.SS,$57.01 B,$2.69,0.33%,🇨🇳 China
+446,United MicroelectronicsUMC,$56.77 B,$22.64,2.35%,🇹🇼 Taiwan
+447,Dominion EnergyD,$56.60 B,$64.36,1.06%,🇺🇸 USA
+448,Larsen & ToubroLT.NS,$56.60 B,$41.14,0.61%,🇮🇳 India
+449,FastenalFAST,$56.59 B,$49.32,0.63%,🇺🇸 USA
+450,Realty IncomeO,$56.29 B,$59.50,0.12%,🇺🇸 USA
+451,Sumitomo8053.T,$56.09 B,$11.87,0.14%,🇯🇵 Japan
+452,ArcelorMittalMT,$56.06 B,$74.51,0.73%,🇱🇺 Luxembourg
+453,CortevaCTVA,$55.97 B,$83.90,0.70%,🇺🇸 USA
+454,FordF,$55.70 B,$13.97,0.65%,🇺🇸 USA
+455,AmetekAME,$55.45 B,$241.87,3.26%,🇺🇸 USA
+456,Public StoragePSA,$55.40 B,$296.50,0.64%,🇺🇸 USA
+457,Zijin Gold International Company Limited2259.HK,$55.31 B,$20.67,1.25%,🇭🇰 Hong Kong
+458,Devon EnergyDVN,$55.25 B,$50.23,0.42%,🇺🇸 USA
+459,BayerBAYN.DE,$54.84 B,$55.83,1.09%,🇩🇪 Germany
+460,Erste Group BankEBO.F,$54.79 B,$141.05,0.49%,🇦🇹 Austria
+461,UOBU11.SI,$54.72 B,$33.15,1.87%,🇸🇬 Singapore
+462,NikeNKE,$54.59 B,$36.80,0.49%,🇺🇸 USA
+463,Cardinal HealthCAH,$54.55 B,$234.57,0.61%,🇺🇸 USA
+464,GarminGRMN,$54.51 B,$282.67,4.25%,🇨🇭 Switzerland
+465,SempraSRE,$54.49 B,$83.34,0.79%,🇺🇸 USA
+466,Marubeni8002.T,$54.43 B,$33.50,2.02%,🇯🇵 Japan
+467,Emirates NBD Bank PJSCEMIRATESNBD.AE,$54.28 B,$8.59,4.23%,🇦🇪 UAE
+468,RWERWE.DE,$54.09 B,$69.36,0.56%,🇩🇪 Germany
+469,ThalesHO.PA,$54.07 B,$262.86,0.76%,🇫🇷 France
+470,China Telecom0728.HK,$53.84 B,$0.59,2.10%,🇨🇳 China
+471,Shengyi Technology (SYTECH)600183.SS,$53.84 B,$22.17,0.17%,🇨🇳 China
+472,London Stock ExchangeLSEG.L,$53.80 B,$111.35,3.22%,🇬🇧 UK
+473,CommerzbankCBK.F,$53.79 B,$49.77,2.73%,🇩🇪 Germany
+474,RheinmetallRHM.F,$53.67 B,"$1,150",2.27%,🇩🇪 Germany
+475,BTG PactualBPAC3.SA,$53.54 B,$4.62,0.46%,🇧🇷 Brazil
+476,E.ONEOAN.DE,$53.40 B,$20.44,0.37%,🇩🇪 Germany
+477,Alimentation Couche-TardATD.TO,$53.29 B,$58.06,0.90%,🇨🇦 Canada
+478,Meituan3690.HK,$53.16 B,$9.51,0.73%,🇨🇳 China
+479,State Street CorporationSTT,$53.12 B,$193.40,1.10%,🇺🇸 USA
+480,AngloGold AshantiAU,$52.81 B,$104.42,0.52%,🇿🇦 South Africa
+481,Delta Air LinesDAL,$52.55 B,$79.91,2.13%,🇺🇸 USA
+482,Compass GroupCPG.L,$52.45 B,$30.85,0.36%,🇬🇧 UK
+483,Cathay Financial Holding2882.TW,$52.33 B,$3.57,2.26%,🇹🇼 Taiwan
+484,Fujikura5803.T,$52.06 B,$31.45,2.95%,🇯🇵 Japan
+485,"Strategy 
+ (MicroStrategy)MSTR",$52.03 B,$130.97,1.87%,🇺🇸 USA
+486,Mercedes-BenzMBG.DE,$51.79 B,$54.10,0.37%,🇩🇪 Germany
+487,Lenovo0992.HK,$51.78 B,$4.17,4.60%,🇭🇰 Hong Kong
+488,BASFBAS.DE,$51.71 B,$60.07,2.83%,🇩🇪 Germany
+489,Emirates Telecom (Etisalat Group)EAND.AE,$51.62 B,$5.94,0.46%,🇦🇪 UAE
+490,The People's Insurance Company (PICC)601319.SS,$51.49 B,$1.16,0.26%,🇨🇳 China
+491,Franco-NevadaFNV,$51.30 B,$266.00,2.05%,🇨🇦 Canada
+492,Loblaw CompaniesL.TO,$51.07 B,$44.20,0.29%,🇨🇦 Canada
+493,NasdaqNDAQ,$50.97 B,$91.19,0.89%,🇺🇸 USA
+494,Vivmark ResidentialVMRK,$50.71 B,$65.54,0.80%,🇺🇸 USA
+495,Astera LabsALAB,$50.52 B,$291.22,2.35%,🇺🇸 USA
+496,AntofagastaANTO.L,$50.50 B,$51.23,0.50%,🇬🇧 UK
+497,EntergyETR,$50.32 B,$105.33,0.38%,🇺🇸 USA
+498,Honeywell AerospaceHONA,$50.16 B,$158.26,2.93%,🇺🇸 USA
+499,ORLENPKN.WA,$50.12 B,$43.18,0.98%,🇵🇱 Poland
+500,MaerskMAERSK-B.CO,$49.88 B,"$3,461",2.28%,🇩🇰 Denmark
+501,Unimicron3037.TW,$49.82 B,$30.37,1.54%,🇹🇼 Taiwan
+502,VistraVST,$49.80 B,$148.38,0.90%,🇺🇸 USA
+503,SandvikSAND.ST,$49.72 B,$39.64,0.31%,🇸🇪 Sweden
+504,Fifth Third BankFITB,$49.62 B,$54.72,0.53%,🇺🇸 USA
+505,EndesaELE.MC,$49.61 B,$48.79,0.12%,🇪🇸 Spain
+506,Siemens HealthineersSHL.DE,$49.59 B,$44.31,0.49%,🇩🇪 Germany
+507,CienaCIEN,$49.56 B,$349.54,4.48%,🇺🇸 USA
+508,Samsung Biologics207940.KS,$49.46 B,"$1,068",1.55%,🇰🇷 S. Korea
+509,Swiss ReSREN.SW,$49.39 B,$167.47,1.18%,🇨🇭 Switzerland
+510,CITIC limited0267.HK,$49.26 B,$1.69,1.53%,🇨🇳 China
+511,Ameriprise FinancialAMP,$49.25 B,$557.61,0.74%,🇺🇸 USA
+512,HumanaHUM,$49.20 B,$409.80,2.26%,🇺🇸 USA
+513,CoreWeaveCRWV,$49.08 B,$88.99,0.15%,🇺🇸 USA
+514,Hoya7741.T,$48.74 B,$145.72,1.26%,🇯🇵 Japan
+515,Edwards LifesciencesEW,$48.63 B,$84.37,2.77%,🇺🇸 USA
+516,DNBDNB.OL,$48.52 B,$34.05,0.38%,🇳🇴 Norway
+517,Becton DickinsonBDX,$48.44 B,$177.85,0.81%,🇺🇸 USA
+518,MS&AD Insurance8725.T,$48.17 B,$33.74,1.89%,🇯🇵 Japan
+519,DiageoDEO,$48.15 B,$86.63,0.37%,🇬🇧 UK
+520,PICC Property and Casualty Company Limited2328.HK,$47.98 B,$2.16,0.70%,🇨🇳 China
+521,eBayEBAY,$47.94 B,$107.75,2.59%,🇺🇸 USA
+522,DSVDSV.VI,$47.89 B,$200.57,3.11%,🇩🇰 Denmark
+523,OrangeORA.PA,$47.88 B,$18.02,0.19%,🇫🇷 France
+524,WabtecWAB,$47.83 B,$283.22,1.05%,🇺🇸 USA
+525,Holcim GroupHOLN.SW,$47.67 B,$86.20,0.14%,🇨🇭 Switzerland
+526,Rockwell AutomationROK,$47.66 B,$428.39,1.67%,🇺🇸 USA
+527,BlockXYZ,$47.58 B,$79.21,0.18%,🇺🇸 USA
+528,NateraNTRA,$47.41 B,$328.93,0.86%,🇺🇸 USA
+529,Hindustan UnileverHINDUNILVR.NS,$47.39 B,$20.17,0.79%,🇮🇳 India
+530,Danske BankDANS.VI,$47.37 B,$58.74,1.46%,🇩🇰 Denmark
+531,Carrier GlobalCARR,$47.36 B,$57.46,1.45%,🇺🇸 USA
+532,PorscheP911.DE,$47.34 B,$51.97,0.07%,🇩🇪 Germany
+533,China Pacific Insurance601601.SS,$47.26 B,$4.91,0.06%,🇨🇳 China
+534,Swire Pacific0019.HK,$47.23 B,$13.02,1.73%,🇭🇰 Hong Kong
+535,VolkswagenVOW3.DE,$47.16 B,$94.09,0.00%,🇩🇪 Germany
+536,Xcel EnergyXEL,$47.15 B,$75.50,0.12%,🇺🇸 USA
+537,ASM InternationalASM.AS,$47.00 B,$962.22,1.17%,🇳🇱 Netherlands
+538,AutoZoneAZO,$46.96 B,"$2,877",0.16%,🇺🇸 USA
+539,AMEC688012.SS,$46.73 B,$48.79,1.91%,🇨🇳 China
+540,Kuwait Finance HouseKFH.KW,$46.70 B,"$2,524",0.51%,🇰🇼 Kuwait
+541,AmbevABEV,$46.55 B,$3.02,0.66%,🇧🇷 Brazil
+542,Titan CompanyTITAN.NS,$46.52 B,$52.43,0.23%,🇮🇳 India
+543,Nanya Technology2408.TW,$46.52 B,$15.01,3.55%,🇹🇼 Taiwan
+544,KB Financial GroupKB,$46.34 B,$132.01,4.31%,🇰🇷 S. Korea
+545,Shanghai Pudong Development Bank600000.SS,$46.33 B,$1.39,0.76%,🇨🇳 China
+546,JBS N.V.JBS,$46.24 B,$14.06,1.30%,🇧🇷 Brazil
+547,CoinbaseCOIN,$46.24 B,$175.26,1.73%,🇺🇸 USA
+548,Sun PharmaceuticalSUNPHARMA.NS,$46.20 B,$19.26,1.13%,🇮🇳 India
+549,UCBUCB.VI,$46.18 B,$242.24,4.03%,🇧🇪 Belgium
+550,VentasVTR,$46.16 B,$89.99,0.50%,🇺🇸 USA
+551,WalmexWMMVF,$45.97 B,$2.67,0.74%,🇲🇽 Mexico
+552,PayPalPYPL,$45.95 B,$53.72,0.77%,🇺🇸 USA
+553,STMicroelectronicsSTM,$45.94 B,$51.51,1.52%,🇨🇭 Switzerland
+554,Toyota Tsusho8015.T,$45.91 B,$48.96,0.33%,🇯🇵 Japan
+555,DanoneBN.PA,$45.82 B,$71.14,0.62%,🇫🇷 France
+556,Chipotle Mexican GrillCMG,$45.80 B,$36.20,0.19%,🇺🇸 USA
+557,L3Harris TechnologiesLHX,$45.72 B,$245.54,1.14%,🇺🇸 USA
+558,Skandinaviska Enskilda BankenSEB-A.ST,$45.63 B,$23.46,0.62%,🇸🇪 Sweden
+559,Cerebras SystemsCBRS,$45.59 B,$191.93,0.31%,🇺🇸 USA
+560,Adani EnterprisesADANIENT.NS,$45.57 B,$32.03,0.56%,🇮🇳 India
+561,Hikvision002415.SZ,$45.54 B,$4.97,0.24%,🇨🇳 China
+562,AtlassianTEAM,$45.48 B,$179.70,0.07%,🇦🇺 Australia
+563,RosneftROSN.ME,$45.41 B,$4.15,0.10%,🇷🇺 Russia
+564,LonzaLONN.SW,$45.40 B,$650.06,0.71%,🇨🇭 Switzerland
+565,Guotai Junan Securities601211.SS,$45.37 B,$2.58,0.06%,🇨🇳 China
+566,Coca-Cola European PartnersCCEP,$45.30 B,$102.77,0.11%,🇬🇧 UK
+567,HeinekenHEIA.AS,$45.16 B,$81.46,1.07%,🇳🇱 Netherlands
+568,Banco Santander BrasilBSBR,$45.07 B,$6.02,2.38%,🇧🇷 Brazil
+569,Woodside EnergyWDS,$45.03 B,$23.69,0.84%,🇦🇺 Australia
+570,InfosysINFY,$44.83 B,$11.07,1.47%,🇮🇳 India
+571,SwedbankSWED-A.ST,$44.78 B,$39.86,0.73%,🇸🇪 Sweden
+572,WorkdayWDAY,$44.75 B,$185.70,0.33%,🇺🇸 USA
+573,Japan Post Holdings6178.T,$44.62 B,$16.32,1.62%,🇯🇵 Japan
+574,Dai-ichi Life Holdings8750.T,$44.60 B,$12.38,1.12%,🇯🇵 Japan
+575,China State Shipbuilding Corporation (CSSC)600150.SS,$44.46 B,$5.91,0.30%,🇨🇳 China
+576,Exelon CorporationEXC,$44.46 B,$43.16,0.53%,🇺🇸 USA
+577,AutodeskADSK,$44.39 B,$212.40,0.37%,🇺🇸 USA
+578,Sun Life FinancialSLF,$44.29 B,$79.67,0.14%,🇨🇦 Canada
+579,Galderma GroupGALD.SW,$44.21 B,$189.62,0.81%,🇨🇭 Switzerland
+580,HEICOHEI,$44.16 B,$316.00,1.12%,🇺🇸 USA
+581,Fujitsu6702.T,$44.13 B,$25.52,4.67%,🇯🇵 Japan
+582,Bank Central AsiaBBCA.JK,$44.13 B,$0.36,0.00%,🇮🇩 Indonesia
+583,LukoilLKOH.ME,$43.85 B,$62.35,0.12%,🇷🇺 Russia
+584,MedlineMDLN,$43.76 B,$32.53,0.43%,🇺🇸 USA
+585,BMWBMW.DE,$43.70 B,$73.02,0.48%,🇩🇪 Germany
+586,CelesticaCLS,$43.70 B,$346.55,6.56%,🇨🇦 Canada
+587,Revolution MedicinesRVMD,$43.67 B,$203.77,0.21%,🇺🇸 USA
+588,Ares ManagementARES,$43.67 B,$131.64,0.77%,🇺🇸 USA
+589,Kotak Mahindra BankKOTAKBANK.NS,$43.62 B,$4.39,0.59%,🇮🇳 India
+590,Samsung C&T Corporation028260.KS,$43.61 B,$266.57,2.32%,🇰🇷 S. Korea
+591,Hanwha Aerospace012450.KS,$43.26 B,$840.97,4.62%,🇰🇷 S. Korea
+592,Constellation SoftwareCSU.TO,$43.22 B,"$2,040",2.49%,🇨🇦 Canada
+593,Teva Pharmaceutical IndustriesTEVA,$43.22 B,$37.09,2.04%,🇮🇱 Israel
+594,Prysmian GroupPRY.MI,$43.10 B,$147.48,2.95%,🇮🇹 Italy
+595,LegrandLR.PA,$43.09 B,$164.41,1.68%,🇫🇷 France
+596,IQVIAIQV,$43.08 B,$261.77,1.74%,🇺🇸 USA
+597,Ferguson EnterprisesFERG,$43.05 B,$222.54,0.71%,🇬🇧 UK
+598,Quanta Computer2382.TW,$43.03 B,$10.50,1.19%,🇹🇼 Taiwan
+599,East Money Information300059.SZ,$43.02 B,$2.72,0.38%,🇨🇳 China
+600,CMOC3993.HK,$42.88 B,$2.00,1.75%,🇨🇳 China
+601,Reckitt BenckiserRKT.L,$42.87 B,$67.58,1.15%,🇬🇧 UK
+602,AenaAENA.MC,$42.87 B,$28.58,0.57%,🇪🇸 Spain
+603,FlexFLEX,$42.76 B,$115.78,7.19%,🇸🇬 Singapore
+604,Power Corporation of CanadaPOW.TO,$42.72 B,$68.06,1.47%,🇨🇦 Canada
+605,Keurig Dr PepperKDP,$42.71 B,$31.39,0.22%,🇺🇸 USA
+606,CTBC Financial Holding2891.TW,$42.61 B,$2.13,0.75%,🇹🇼 Taiwan
+607,Jiangsu Hengrui Medicine600276.SS,$42.58 B,$6.42,0.84%,🇨🇳 China
+608,Adani Ports & SEZADANIPORTS.NS,$42.55 B,$18.47,0.19%,🇮🇳 India
+609,Veeva SystemsVEEV,$42.48 B,$262.40,0.54%,🇺🇸 USA
+610,Adani PowerADANIPOWER.NS,$42.38 B,$2.20,1.65%,🇮🇳 India
+611,QNB (Qatar National Bank)QNBK.QA,$42.20 B,$4.64,1.02%,🇶🇦 Qatar
+612,HondaHMC,$42.20 B,$32.52,2.85%,🇯🇵 Japan
+613,Banca Monte dei Paschi di SienaBMPS.MI,$42.18 B,$13.88,2.46%,🇮🇹 Italy
+614,Thomson ReutersTRI,$42.17 B,$97.35,1.71%,🇨🇦 Canada
+615,WEG ONWEGE3.SA,$42.13 B,$10.04,1.30%,🇧🇷 Brazil
+616,CamecoCCJ,$42.10 B,$96.68,0.76%,🇨🇦 Canada
+617,Suzhou TFC Optical Communication300394.SZ,$41.95 B,$38.46,1.53%,🇨🇳 China
+618,Fomento Económico Mexicano (FEMSA)FMX,$41.84 B,$116.95,0.53%,🇲🇽 Mexico
+619,Jardine MathesonJ36.SI,$41.83 B,$58.02,0.70%,🇭🇰 Hong Kong
+620,Z.AI2513.HK,$41.81 B,$93.78,7.25%,🇨🇳 China
+621,Archer Daniels Midland (ADM)ADM,$41.79 B,$86.72,0.22%,🇺🇸 USA
+622,Doosan Enerbility034020.KS,$41.72 B,$65.28,3.30%,🇰🇷 S. Korea
+623,ORIXIX,$41.71 B,$40.11,2.61%,🇯🇵 Japan
+624,Agilent TechnologiesA,$41.42 B,$146.93,2.66%,🇺🇸 USA
+625,NEC Corp6701.T,$41.36 B,$31.19,5.71%,🇯🇵 Japan
+626,SwisscomSCMN.SW,$41.30 B,$797.27,0.54%,🇨🇭 Switzerland
+627,PaychexPAYX,$41.22 B,$115.80,0.54%,🇺🇸 USA
+628,Komatsu6301.T,$41.21 B,$46.38,0.24%,🇯🇵 Japan
+629,Prudential FinancialPRU,$41.13 B,$119.24,0.64%,🇺🇸 USA
+630,ABN AMROABN.AS,$41.10 B,$50.44,2.06%,🇳🇱 Netherlands
+631,Sumitomo Denki Kōgyō5802.T,$40.98 B,$13.14,2.77%,🇯🇵 Japan
+632,Sun Hung Kai Properties0016.HK,$40.82 B,$14.09,2.13%,🇭🇰 Hong Kong
+633,Maruti Suzuki IndiaMARUTI.NS,$40.80 B,$129.79,1.51%,🇮🇳 India
+634,CBRE GroupCBRE,$40.68 B,$140.51,1.83%,🇺🇸 USA
+635,Axis BankAXISBANK.BO,$40.65 B,$13.06,0.99%,🇮🇳 India
+636,Compagnie de Saint-GobainSGO.PA,$40.54 B,$82.89,0.28%,🇫🇷 France
+637,Wuliangye Yibin000858.SZ,$40.44 B,$10.42,0.19%,🇨🇳 China
+638,HaleonHLN,$40.41 B,$9.19,0.33%,🇬🇧 UK
+639,PKO Bank PolskiPKO.WA,$40.37 B,$32.30,0.90%,🇵🇱 Poland
+640,MSCIMSCI,$40.32 B,$554.61,1.28%,🇺🇸 USA
+641,FerrovialFER.MC,$40.30 B,$55.93,0.69%,🇪🇸 Spain
+642,Microchip TechnologyMCHP,$40.29 B,$74.20,3.66%,🇺🇸 USA
+643,Take-Two InteractiveTTWO,$40.28 B,$215.47,0.69%,🇺🇸 USA
+644,Rocket LabRKLB,$40.25 B,$62.95,1.60%,🇺🇸 USA
+645,VodafoneVOD,$40.21 B,$17.40,0.40%,🇬🇧 UK
+646,Waste ConnectionsWCN,$40.18 B,$159.74,0.19%,🇺🇸 USA
+647,Gold FieldsGFI,$40.17 B,$45.10,0.97%,🇿🇦 South Africa
+648,Waters CorporationWAT,$40.09 B,$408.34,1.67%,🇺🇸 USA
+649,Sompo Holdings8630.T,$40.04 B,$45.16,2.51%,🇯🇵 Japan
+650,Samsung Life Insurance032830.KS,$39.92 B,$222.32,2.76%,🇰🇷 S. Korea
+651,SyscoSYY,$39.86 B,$83.21,1.09%,🇺🇸 USA
+652,IDEXX LaboratoriesIDXX,$39.76 B,$504.70,0.36%,🇺🇸 USA
+653,Wiwynn6669.TW,$39.74 B,$71.52,1.95%,🇹🇼 Taiwan
+654,EQTEQT.ST,$39.67 B,$31.84,0.64%,🇸🇪 Sweden
+655,Live NationLYV,$39.63 B,$170.15,0.04%,🇺🇸 USA
+656,Shinhan Financial GroupSHG,$39.58 B,$84.06,3.48%,🇰🇷 S. Korea
+657,SABIC2010.SR,$39.55 B,$13.19,0.60%,🇸🇦 S. Arabia
+658,Venture GlobalVG,$39.50 B,$15.80,1.94%,🇺🇸 USA
+659,American International GroupAIG,$39.38 B,$75.33,0.40%,🇺🇸 USA
+660,Consolidated EdisonED,$39.37 B,$106.46,0.25%,🇺🇸 USA
+661,BeOne MedicinesONC,$39.19 B,$346.51,1.38%,🇺🇸 USA
+662,TescoTSCO.L,$39.18 B,$6.29,0.30%,🇬🇧 UK
+663,NetAppNTAP,$39.14 B,$199.28,8.54%,🇺🇸 USA
+664,Mahindra & MahindraM&M.NS,$39.04 B,$32.52,0.54%,🇮🇳 India
+665,Poste ItalianePST.MI,$39.00 B,$30.20,1.92%,🇮🇹 Italy
+666,Assa AbloyASSA-B.ST,$38.99 B,$35.10,0.06%,🇸🇪 Sweden
+667,Axon EnterpriseAXON,$38.94 B,$479.34,0.10%,🇺🇸 USA
+668,Goodman GroupGMG.AX,$38.91 B,$18.94,1.60%,🇦🇺 Australia
+669,Daimler TruckDTG.F,$38.90 B,$51.17,1.12%,🇩🇪 Germany
+670,TelstraTLS.AX,$38.64 B,$3.47,0.41%,🇦🇺 Australia
+671,D. R. HortonDHI,$38.56 B,$137.89,1.71%,🇺🇸 USA
+672,SSESSE.L,$38.51 B,$31.93,0.08%,🇬🇧 UK
+673,Yum! BrandsYUM,$38.44 B,$140.87,2.10%,🇺🇸 USA
+674,Roper TechnologiesROP,$38.42 B,$388.52,0.02%,🇺🇸 USA
+675,Otsuka Holdings4578.T,$38.29 B,$73.01,0.97%,🇯🇵 Japan
+676,NovatekNVTK.ME,$38.24 B,$12.21,0.21%,🇷🇺 Russia
+677,Bank LeumiLUMI.TA,$38.17 B,$25.98,0.00%,🇮🇱 Israel
+678,Chaozhou Three-Circle300408.SZ,$38.13 B,$19.10,3.00%,🇨🇳 China
+679,Dubai Electricity and Water Authority (DEWA)DEWA.AE,$38.12 B,$0.76,0.36%,🇦🇪 UAE
+680,Banco BradescoBBD,$38.05 B,$3.60,0.56%,🇧🇷 Brazil
+681,GigaDevice Semiconductor603986.SS,$38.04 B,$54.04,2.39%,🇨🇳 China
+682,Viking HoldingsVIK,$37.96 B,$85.01,1.19%,🇧🇲 Bermuda
+683,OTP BankOTP.BD,$37.90 B,$149.66,2.35%,Hungary
+684,ACWA POWER Company2082.SR,$37.77 B,$49.31,3.04%,🇸🇦 S. Arabia
+685,HD Hyundai Heavy Industries329180.KS,$37.68 B,$359.14,0.84%,🇰🇷 S. Korea
+686,Renesas Electronics6723.T,$37.65 B,$20.60,0.75%,🇯🇵 Japan
+687,Daikin6367.T,$37.65 B,$135.28,0.10%,🇯🇵 Japan
+688,NutrienNTR,$37.43 B,$78.45,0.37%,🇨🇦 Canada
+689,Old Dominion Freight LineODFL,$37.39 B,$179.79,0.42%,🇺🇸 USA
+690,Rocket CompaniesRKT,$37.32 B,$13.18,0.08%,🇺🇸 USA
+691,AselsanASELS.IS,$36.94 B,$8.10,1.19%,🇹🇷 Turkey
+692,The HartfordHIG,$36.93 B,$136.36,0.32%,🇺🇸 USA
+693,Resona Holdings8308.T,$36.88 B,$16.52,0.69%,🇯🇵 Japan
+694,FortescueFMG.AX,$36.62 B,$11.89,0.24%,🇦🇺 Australia
+695,3i GroupIII.L,$36.59 B,$35.83,0.72%,🇬🇧 UK
+696,COSCO Shipping601919.SS,$36.56 B,$2.40,0.56%,🇨🇳 China
+697,JD.comJD,$36.54 B,$27.06,0.15%,🇨🇳 China
+698,Muyuan Foods002714.SZ,$36.52 B,$6.33,0.59%,🇨🇳 China
+699,EcopetrolEC,$36.49 B,$17.75,1.77%,🇨🇴 Colombia
+700,Disco Corp.6146.T,$36.44 B,$335.99,0.62%,🇯🇵 Japan
+701,SikaSIKA.SW,$36.32 B,$226.39,0.16%,🇨🇭 Switzerland
+702,TalanxTLX.DE,$36.27 B,$140.47,0.58%,🇩🇪 Germany
+703,Martin Marietta MaterialsMLM,$36.21 B,$509.96,1.49%,🇺🇸 USA
+704,PSEGPEG,$36.08 B,$72.39,0.12%,🇺🇸 USA
+705,TKO Group HoldingsTKO,$36.01 B,$190.31,0.35%,🇺🇸 USA
+706,Kia000270.KS,$35.92 B,$92.42,1.82%,🇰🇷 S. Korea
+707,RepsolREP.MC,$35.82 B,$33.52,0.03%,🇪🇸 Spain
+708,ČEZ GroupCEZ.PR,$35.78 B,$66.67,0.00%,🇨🇿 Czech Republic
+709,GivaudanGIVN.SW,$35.74 B,"$3,872",0.16%,🇨🇭 Switzerland
+710,HochtiefHOT.F,$35.73 B,$474.96,0.15%,🇩🇪 Germany
+711,PTT PCLPTT-R.BK,$35.73 B,$1.26,0.59%,🇹🇭 Thailand
+712,United Airlines HoldingsUAL,$35.64 B,$109.82,3.13%,🇺🇸 USA
+713,Sandoz GroupSDZ.SW,$35.33 B,$81.67,1.03%,🇨🇭 Switzerland
+714,Yageo2327.TW,$35.29 B,$17.14,0.18%,🇹🇼 Taiwan
+715,Restaurant Brands InternationalQSR,$35.25 B,$76.96,0.61%,🇨🇦 Canada
+716,Estee LauderEL,$35.13 B,$97.12,0.67%,🇺🇸 USA
+717,Abu Dhabi Commercial Bank (ADCB)ADCB.AE,$35.03 B,$4.43,1.37%,🇦🇪 UAE
+718,Bank of Ningbo002142.SZ,$35.00 B,$5.30,0.14%,🇨🇳 China
+719,Hannover RückHNR1.DE,$34.99 B,$290.22,0.56%,🇩🇪 Germany
+720,BPER BancaBPE.MI,$34.99 B,$16.64,1.18%,🇮🇹 Italy
+721,TwilioTWLO,$34.91 B,$227.35,1.64%,🇺🇸 USA
+722,KrogerKR,$34.86 B,$58.49,2.70%,🇺🇸 USA
+723,The Hershey CompanyHSY,$34.82 B,$173.32,0.59%,🇺🇸 USA
+724,Fanuc6954.T,$34.81 B,$37.47,0.45%,🇯🇵 Japan
+725,Chunghwa TelecomCHT,$34.79 B,$44.85,0.72%,🇹🇼 Taiwan
+726,TDK6762.T,$34.74 B,$18.31,0.21%,🇯🇵 Japan
+727,M&T BankMTB,$34.63 B,$239.83,0.34%,🇺🇸 USA
+728,Northern TrustNTRS,$34.61 B,$189.19,1.07%,🇺🇸 USA
+729,Kinross GoldKGC,$34.55 B,$29.13,0.69%,🇨🇦 Canada
+730,Ibiden4062.T,$34.47 B,$122.63,3.60%,🇯🇵 Japan
+731,Bank of Jiangsu600919.SS,$34.44 B,$1.88,0.16%,🇨🇳 China
+732,EmcorEME,$34.43 B,$780.66,4.32%,🇺🇸 USA
+733,Steel DynamicsSTLD,$34.36 B,$239.79,1.14%,🇺🇸 USA
+734,Hindustan AeronauticsHAL.NS,$34.33 B,$51.34,0.91%,🇮🇳 India
+735,Bank HapoalimPOLI.TA,$34.32 B,$26.29,0.00%,🇮🇱 Israel
+736,WEC Energy GroupWEC,$34.32 B,$105.33,0.02%,🇺🇸 USA
+737,Wanhua Chemical600309.SS,$34.30 B,$10.96,1.36%,🇨🇳 China
+738,Taishin Financial Holdings2887.TW,$34.29 B,$1.37,1.41%,🇹🇼 Taiwan
+739,Iron MountainIRM,$34.28 B,$115.18,2.02%,🇺🇸 USA
+740,HCL TechnologiesHCLTECH.NS,$34.15 B,$12.62,0.07%,🇮🇳 India
+741,KenvueKVUE,$34.15 B,$17.78,0.06%,🇺🇸 USA
+742,UbiquitiUI,$34.14 B,$564.15,5.09%,🇺🇸 USA
+743,Ping An Bank000001.SZ,$34.14 B,$1.76,0.51%,🇨🇳 China
+744,Elbit SystemsESLT,$34.11 B,$728.00,0.56%,🇮🇱 Israel
+745,ITCITC.NS,$34.07 B,$2.72,0.21%,🇮🇳 India
+746,Huntington BancsharesHBAN,$34.06 B,$16.86,0.78%,🇺🇸 USA
+747,Weichai Power2338.HK,$34.04 B,$3.94,1.40%,🇨🇳 China
+748,AdyenADYEN.AS,$33.97 B,"$1,076",1.06%,🇳🇱 Netherlands
+749,Woolworths GroupWOW.AX,$33.93 B,$27.78,0.88%,🇦🇺 Australia
+750,HenkelHEN3.DE,$33.92 B,$83.80,1.87%,🇩🇪 Germany
+751,KeringKER.PA,$33.90 B,$276.54,1.90%,🇫🇷 France
+752,UltraTech CementULTRACEMCO.NS,$33.86 B,$115.14,0.19%,🇮🇳 India
+753,Royalty PharmaRPRX,$33.86 B,$58.61,0.24%,🇬🇧 UK
+754,NTPC LimitedNTPC.NS,$33.83 B,$3.49,0.48%,🇮🇳 India
+755,EQT CorporationEQT,$33.82 B,$54.07,1.62%,🇺🇸 USA
+756,NaspersNPSNY,$33.77 B,$9.03,0.33%,🇿🇦 South Africa
+757,Expedia GroupEXPE,$33.70 B,$280.83,1.43%,🇺🇸 USA
+758,Fairfax FinancialFFH.TO,$33.67 B,"$1,621",1.24%,🇨🇦 Canada
+759,EricssonERIC,$33.66 B,$10.31,3.00%,🇸🇪 Sweden
+760,Bajaj AutoBAJAJ-AUTO.NS,$33.58 B,$122.23,0.76%,🇮🇳 India
+761,Daiichi Sankyō4568.T,$33.43 B,$18.38,1.93%,🇯🇵 Japan
+762,LeonardoLDO.MI,$33.43 B,$57.95,0.06%,🇮🇹 Italy
+763,CK Hutchison Holdings0001.HK,$33.40 B,$8.72,0.43%,🇭🇰 Hong Kong
+764,JabilJBL,$33.33 B,$318.08,5.05%,🇺🇸 USA
+765,FirstRandFSR.JO,$33.32 B,$5.99,0.65%,🇿🇦 South Africa
+766,Raymond James FinancialRJF,$33.32 B,$173.46,0.04%,🇺🇸 USA
+767,Alnylam PharmaceuticalsALNY,$33.27 B,$248.68,0.47%,🇺🇸 USA
+768,ExperianEXPGF,$33.15 B,$37.55,0.77%,🇮🇪 Ireland
+769,Victory Giant Technology300476.SZ,$33.15 B,$33.73,1.20%,🇨🇳 China
+770,Oriental Land4661.T,$33.06 B,$20.16,0.49%,🇯🇵 Japan
+771,International Container Terminal ServicesICTEF,$33.04 B,$16.37,0.28%,🇵🇭 Philippines
+772,Crown CastleCCI,$33.04 B,$75.62,2.37%,🇺🇸 USA
+773,PrudentialPUK,$33.00 B,$26.68,0.33%,🇬🇧 UK
+774,Accton Technology2345.TW,$33.00 B,$59.04,0.80%,🇹🇼 Taiwan
+775,China General Nuclear Power Group (CGN)003816.SZ,$32.90 B,$0.65,0.92%,🇨🇳 China
+776,CenteneCNC,$32.81 B,$66.42,1.56%,🇺🇸 USA
+777,"Cheniere Energy
+PartnersCQP",$32.79 B,$67.74,1.54%,🇺🇸 USA
+778,Arch CapitalACGL,$32.78 B,$96.09,0.11%,🇧🇲 Bermuda
+779,Schindler GroupSCHN.SW,$32.76 B,$302.27,0.61%,🇨🇭 Switzerland
+780,Intact FinancialIFC.TO,$32.75 B,$185.73,0.25%,🇨🇦 Canada
+781,Vulcan MaterialsVMC,$32.74 B,$252.74,0.85%,🇺🇸 USA
+782,Vestas Wind SystemsVWS.CO,$32.72 B,$33.45,2.08%,🇩🇰 Denmark
+783,EverpureP,$32.71 B,$98.18,4.34%,🇺🇸 USA
+784,Kimberly-ClarkKMB,$32.64 B,$98.15,0.34%,🇺🇸 USA
+785,DollaramaDOL.TO,$32.63 B,$120.53,0.55%,🇨🇦 Canada
+786,BanorteGFNORTEO.MX,$32.62 B,$11.75,0.06%,🇲🇽 Mexico
+787,Teck ResourcesTECK,$32.59 B,$66.44,0.82%,🇨🇦 Canada
+788,RobloxRBLX,$32.50 B,$45.50,1.38%,🇺🇸 USA
+789,Gree Electric Appliances000651.SZ,$32.39 B,$5.78,0.13%,🇨🇳 China
+790,JSW SteelJSWSTEEL.NS,$32.31 B,$13.24,2.99%,🇮🇳 India
+791,Capitec BankCPI.JO,$32.29 B,$278.81,0.63%,🇿🇦 South Africa
+792,Hua Hong Semiconductor Limited1347.HK,$32.29 B,$13.82,2.95%,🇨🇳 China
+793,Sumitomo Mitsui Trust Holdings8309.T,$32.13 B,$11.67,1.53%,🇯🇵 Japan
+794,BiogenBIIB,$32.08 B,$217.15,0.80%,🇺🇸 USA
+795,Bajaj FinservBAJAJFINSV.NS,$32.05 B,$20.03,1.39%,🇮🇳 India
+796,HPHPQ,$31.99 B,$35.48,8.40%,🇺🇸 USA
+797,AlconALC,$31.91 B,$66.03,0.78%,🇨🇭 Switzerland
+798,Advanced Info Service (AIS)ADVANC.BK,$31.81 B,$10.70,0.00%,🇹🇭 Thailand
+799,Nomura HoldingsNMR,$31.73 B,$10.86,3.04%,🇯🇵 Japan
+800,EpirocEPI-A.ST,$31.71 B,$26.21,0.24%,🇸🇪 Sweden
+801,MaybankMLYBY,$31.69 B,$5.24,0.19%,🇲🇾 Malaysia
+802,SAAB ABSAAB-B.ST,$31.68 B,$58.82,1.06%,🇸🇪 Sweden
+803,NaturgyNTGY.MC,$31.65 B,$34.17,0.14%,🇪🇸 Spain
+804,HeidelbergCementHEI.DE,$31.57 B,$179.59,0.23%,🇩🇪 Germany
+805,ResMedRMD,$31.48 B,$218.27,0.60%,🇺🇸 USA
+806,DexComDXCM,$31.33 B,$83.03,1.75%,🇺🇸 USA
+807,Denso6902.T,$31.26 B,$12.47,0.18%,🇯🇵 Japan
+808,Standard Bank GroupSBK.JO,$31.22 B,$19.28,1.10%,🇿🇦 South Africa
+809,Swiss LifeSLHN.SW,$31.21 B,"$1,117",0.64%,🇨🇭 Switzerland
+810,BaiduBIDU,$31.20 B,$91.40,0.89%,🇨🇳 China
+811,Ahold DelhaizeAD.AS,$31.18 B,$35.69,0.48%,🇳🇱 Netherlands
+812,IlluminaILMN,$31.17 B,$206.45,2.57%,🇺🇸 USA
+813,Eternal (Zomato)ETERNAL.NS,$31.16 B,$3.39,0.43%,🇮🇳 India
+814,Carnival CorporationCCL,$31.15 B,$22.75,1.25%,🇺🇸 USA
+815,Svenska HandelsbankenSHB-A.ST,$31.12 B,$15.52,0.73%,🇸🇪 Sweden
+816,ItaúsaITSA3.SA,$31.07 B,$2.77,0.21%,🇧🇷 Brazil
+817,Bharat ElectronicsBEL.NS,$30.93 B,$4.23,0.16%,🇮🇳 India
+818,NovonesisNZYM.VI,$30.91 B,$66.30,0.70%,🇩🇰 Denmark
+819,Kühne + NagelKNIN.SW,$30.89 B,$260.17,0.75%,🇨🇭 Switzerland
+820,Dassault SystèmesDSY.PA,$30.82 B,$23.46,0.69%,🇫🇷 France
+821,Yankuang Energy (Yanzhou Coal Mining)600188.SS,$30.78 B,$3.07,3.79%,🇨🇳 China
+822,Yuanta Financial Holding2885.TW,$30.77 B,$2.22,0.43%,🇹🇼 Taiwan
+823,Credo TechnologyCRDO,$30.62 B,$162.95,1.65%,🇺🇸 USA
+824,Celltrion068270.KS,$30.62 B,$133.54,0.79%,🇰🇷 S. Korea
+825,Oil & Natural GasONGC.NS,$30.61 B,$2.43,2.01%,🇮🇳 India
+826,TransurbanTCL.AX,$30.56 B,$9.80,0.18%,🇦🇺 Australia
+827,Universal Music GroupUMG.AS,$30.43 B,$16.93,4.17%,🇳🇱 Netherlands
+828,Ajinomoto2802.T,$30.43 B,$31.94,1.27%,🇯🇵 Japan
+829,PG&E CorporationPCG,$30.39 B,$13.80,1.64%,🇺🇸 USA
+830,Extra Space StorageEXR,$30.37 B,$137.64,0.87%,🇺🇸 USA
+831,RedditRDDT,$30.35 B,$157.77,1.56%,🇺🇸 USA
+832,FresnilloFNLPF,$30.22 B,$41.01,2.40%,🇲🇽 Mexico
+833,ZoetisZTS,$30.15 B,$72.97,0.15%,🇺🇸 USA
+834,Bridgestone5108.T,$30.14 B,$24.32,0.98%,🇯🇵 Japan
+835,Inpex1605.T,$30.10 B,$25.90,1.35%,🇯🇵 Japan
+836,CredicorpBAP,$30.01 B,$377.90,0.41%,🇧🇲 Bermuda
+837,TechnipFMCFTI,$29.93 B,$76.34,1.01%,🇬🇧 UK
+838,7-Eleven3382.T,$29.89 B,$13.19,0.97%,🇯🇵 Japan
+839,Foshan Haitian Flavouring and Food603288.SS,$29.87 B,$5.11,0.20%,🇨🇳 China
+840,HalliburtonHAL,$29.85 B,$35.84,0.64%,🇺🇸 USA
+841,KONEKNEBV.HE,$29.81 B,$57.53,0.32%,🇫🇮 Finland
+842,Sunbelt RentalsSUNB,$29.78 B,$72.68,0.68%,🇺🇸 USA
+843,Grupo ACSACS.MC,$29.74 B,$113.87,1.50%,🇪🇸 Spain
+844,Citizens Financial GroupCFG,$29.68 B,$70.48,1.22%,🇺🇸 USA
+845,ON SemiconductorON,$29.64 B,$76.14,8.51%,🇺🇸 USA
+846,Techtronic Industries0669.HK,$29.51 B,$16.16,0.24%,🇭🇰 Hong Kong
+847,BOE Technology000725.SZ,$29.49 B,$0.80,0.19%,🇨🇳 China
+848,Roivant SciencesROIV,$29.48 B,$40.82,0.29%,🇬🇧 UK
+849,FreseniusFRE.DE,$29.40 B,$52.20,0.75%,🇩🇪 Germany
+850,Cboe Global MarketsCBOE,$29.34 B,$281.04,2.24%,🇺🇸 USA
+851,Willis Towers WatsonWTW,$29.31 B,$315.61,0.06%,🇬🇧 UK
+852,NesteNESTE.HE,$29.28 B,$38.12,0.33%,🇫🇮 Finland
+853,Haier Smart Home600690.SS,$29.26 B,$3.15,0.43%,🇨🇳 China
+854,Kyocera6971.T,$29.23 B,$22.88,0.93%,🇯🇵 Japan
+855,Brookfield Infrastructure PartnersBIP,$29.20 B,$36.88,1.26%,🇧🇲 Bermuda
+856,Kraft HeinzKHC,$29.17 B,$24.60,0.86%,🇺🇸 USA
+857,MongoDBMDB,$29.13 B,$362.21,3.12%,🇺🇸 USA
+858,OktaOKTA,$29.10 B,$166.50,2.69%,🇺🇸 USA
+859,AmerenAEE,$29.04 B,$104.90,0.05%,🇺🇸 USA
+860,TenarisTS,$28.97 B,$57.39,0.83%,🇱🇺 Luxembourg
+861,AdidasADS.DE,$28.96 B,$165.45,0.04%,🇩🇪 Germany
+862,Mindray300760.SZ,$28.95 B,$23.89,1.52%,🇨🇳 China
+863,GE HealthCare TechnologiesGEHC,$28.87 B,$63.93,0.48%,🇺🇸 USA
+864,Chroma ATE Inc.2360.TW,$28.82 B,$68.04,0.23%,🇹🇼 Taiwan
+865,SampoSAMPO.HE,$28.75 B,$10.92,0.28%,🇫🇮 Finland
+866,China Coal Energy Company Limited601898.SS,$28.74 B,$2.17,1.29%,🇨🇳 China
+867,Kongsberg GruppenKOG.OL,$28.66 B,$32.59,0.33%,🇳🇴 Norway
+868,AvivaAV.L,$28.59 B,$9.56,0.51%,🇬🇧 UK
+869,Mitsubishi Estate8802.T,$28.45 B,$23.70,1.17%,🇯🇵 Japan
+870,Banco BPMBAMI.MI,$28.36 B,$18.83,0.93%,🇮🇹 Italy
+871,Ingersoll RandIR,$28.29 B,$72.93,0.22%,🇮🇪 Ireland
+872,AIB Group (Allied Irish Banks)A5G.IR,$28.26 B,$13.50,1.66%,🇮🇪 Ireland
+873,InsmedINSM,$28.26 B,$129.41,1.67%,🇺🇸 USA
+874,Hana Financial Group086790.KS,$28.22 B,$105.21,2.69%,🇰🇷 S. Korea
+875,Publicis GroupePUB.PA,$28.01 B,$112.19,0.49%,🇫🇷 France
+876,Teledyne TechnologiesTDY,$27.98 B,$603.79,1.22%,🇺🇸 USA
+877,Nestlé IndiaNESTLEIND.NS,$27.91 B,$14.48,0.21%,🇮🇳 India
+878,ZoomZM,$27.88 B,$95.57,0.12%,🇺🇸 USA
+879,RyanairRYAAY,$27.88 B,$53.80,1.51%,🇮🇪 Ireland
+880,LPL FinancialLPLA,$27.85 B,$353.78,1.88%,🇺🇸 USA
+881,Bank Rakyat IndonesiaBBRI.JK,$27.81 B,$0.18,0.61%,🇮🇩 Indonesia
+882,China National Nuclear Power601985.SS,$27.81 B,$1.35,0.22%,🇨🇳 China
+883,Pembina PipelinePBA,$27.80 B,$47.81,1.10%,🇨🇦 Canada
+884,FortisFTS,$27.77 B,$54.37,0.20%,🇨🇦 Canada
+885,Las Vegas SandsLVS,$27.74 B,$42.83,0.54%,🇺🇸 USA
+886,CopartCPRT,$27.72 B,$29.95,2.60%,🇺🇸 USA
+887,ØrstedORSTED.CO,$27.71 B,$20.98,0.18%,🇩🇰 Denmark
+888,DTE EnergyDTE,$27.58 B,$132.58,1.31%,🇺🇸 USA
+889,Atmos EnergyATO,$27.57 B,$163.19,0.98%,🇺🇸 USA
+890,Coal IndiaCOALINDIA.NS,$27.50 B,$4.46,1.30%,🇮🇳 India
+891,Dollar GeneralDG,$27.48 B,$124.58,1.29%,🇺🇸 USA
+892,Hapag-LloydHLAG.DE,$27.43 B,$156.12,0.96%,🇩🇪 Germany
+893,SMC corp6273.T,$27.42 B,$439.01,0.97%,🇯🇵 Japan
+894,FiservFISV,$27.42 B,$51.58,5.42%,🇺🇸 USA
+895,Gulf Development Public CompanyGULF.BK,$27.42 B,$1.84,1.62%,🇹🇭 Thailand
+896,Global Unichip Corp.3443.TW,$27.37 B,$204.29,5.72%,🇹🇼 Taiwan
+897,American WaterAWK,$27.36 B,$137.69,1.54%,🇺🇸 USA
+898,VICI PropertiesVICI,$27.33 B,$24.83,0.40%,🇺🇸 USA
+899,Samsung Electro-Mechanics009155.KS,$27.27 B,$361.00,1.72%,🇰🇷 S. Korea
+900,New China Life Insurance601336.SS,$27.23 B,$8.73,0.43%,🇨🇳 China
+901,Sany Heavy Industry600031.SS,$27.22 B,$2.96,0.40%,🇨🇳 China
+902,"China Jushi Co., Ltd.600176.SS",$27.18 B,$6.79,1.99%,🇨🇳 China
+903,CoupangCPNG,$27.17 B,$15.12,3.07%,🇺🇸 USA
+904,ExorEXO.AS,$27.14 B,$82.58,0.64%,🇳🇱 Netherlands
+905,KlabinKLBN11.SA,$27.08 B,$3.81,0.15%,🇧🇷 Brazil
+906,ATI Inc.ATI,$27.06 B,$198.77,0.12%,🇺🇸 USA
+907,EchoStarECHO,$27.05 B,$93.14,1.40%,🇺🇸 USA
+908,Cognizant Technology SolutionsCTSH,$27.02 B,$60.00,2.88%,🇺🇸 USA
+909,MediobancaMB.MI,$27.01 B,$33.50,2.41%,🇮🇹 Italy
+910,H&MHM-B.ST,$27.00 B,$16.92,0.03%,🇸🇪 Sweden
+911,PT DCI Indonesia TbkDCII.JK,$26.98 B,$11.32,0.88%,🇮🇩 Indonesia
+912,OMVOMV.F,$26.95 B,$82.64,0.49%,🇦🇹 Austria
+913,BT GroupBT-A.L,$26.83 B,$2.72,0.75%,🇬🇧 UK
+914,ZscalerZS,$26.82 B,$164.54,0.65%,🇺🇸 USA
+915,CorpayCPAY,$26.80 B,$408.22,0.06%,🇺🇸 USA
+916,China State Construction Engineering601668.SS,$26.79 B,$0.65,0.00%,🇨🇳 China
+917,China Everbright Bank601818.SS,$26.78 B,$0.45,0.66%,🇨🇳 China
+918,LG Electronics066570.KS,$26.77 B,$149.08,0.50%,🇰🇷 S. Korea
+919,Life Insurance Corporation of India (LIC)LICI.NS,$26.75 B,$4.23,0.37%,🇮🇳 India
+920,FirstEnergyFE,$26.69 B,$46.13,0.26%,🇺🇸 USA
+921,VeoliaVIE.PA,$26.67 B,$36.44,0.00%,🇫🇷 France
+922,George WestonWN.TO,$26.67 B,$71.27,0.85%,🇨🇦 Canada
+923,China Resources Land1109.HK,$26.66 B,$3.74,0.55%,🇭🇰 Hong Kong
+924,Williams-SonomaWSM,$26.64 B,$226.23,1.11%,🇺🇸 USA
+925,Lens Technology300433.SZ,$26.52 B,$5.02,1.29%,🇨🇳 China
+926,Astellas Pharma4503.T,$26.48 B,$14.77,1.36%,🇯🇵 Japan
+927,VeriSignVRSN,$26.46 B,$292.71,1.34%,🇺🇸 USA
+928,Qnity ElectronicsQ,$26.44 B,$126.40,2.50%,🇺🇸 USA
+929,First Quantum MineralsFM.TO,$26.43 B,$31.69,2.31%,🇨🇦 Canada
+930,Hyundai Mobis012330.KS,$26.42 B,$296.31,4.09%,🇰🇷 S. Korea
+931,Amadeus IT GroupAMS.MC,$26.37 B,$62.80,1.63%,🇪🇸 Spain
+932,MichelinML.PA,$26.35 B,$36.95,0.13%,🇫🇷 France
+933,SupermicroSMCI,$26.34 B,$40.10,7.28%,🇺🇸 USA
+934,Sungrow Power Supply300274.SZ,$26.33 B,$12.70,0.92%,🇨🇳 China
+935,Otis WorldwideOTIS,$26.30 B,$69.10,1.78%,🇺🇸 USA
+936,nVent ElectricNVT,$26.28 B,$162.38,4.65%,🇬🇧 UK
+937,Mitsui Fudosan8801.T,$26.28 B,$9.76,0.67%,🇯🇵 Japan
+938,GazpromGAZP.ME,$26.25 B,$1.10,0.13%,🇷🇺 Russia
+939,Emaar PropertiesEMAAR.AE,$26.23 B,$2.97,0.37%,🇦🇪 UAE
+940,Powergrid Corporation of IndiaPOWERGRID.NS,$26.19 B,$2.82,0.98%,🇮🇳 India
+941,East Japan Railway9020.T,$26.19 B,$23.20,2.12%,🇯🇵 Japan
+942,Hansoh Pharma3692.HK,$26.19 B,$4.32,3.55%,🇨🇳 China
+943,Airports of ThailandAOT.BK,$26.11 B,$1.83,1.62%,🇹🇭 Thailand
+944,National Bank of KuwaitNBK.KW,$26.10 B,"$2,844",0.34%,🇰🇼 Kuwait
+945,Cincinnati FinancialCINF,$26.06 B,$169.80,0.12%,🇺🇸 USA
+946,W. R. BerkleyWRB,$25.94 B,$69.90,0.21%,🇺🇸 USA
+947,Quest DiagnosticsDGX,$25.93 B,$235.02,1.68%,🇺🇸 USA
+948,Hexagon ABHEXA-B.ST,$25.93 B,$9.66,0.30%,🇸🇪 Sweden
+949,Mettler ToledoMTD,$25.91 B,"$1,294",1.01%,🇺🇸 USA
+950,Anta Sports2020.HK,$25.91 B,$9.35,1.24%,🇨🇳 China
+951,Divis LaboratoriesDIVISLAB.NS,$25.90 B,$97.57,1.23%,🇮🇳 India
+952,AristocratALL.AX,$25.87 B,$43.34,1.17%,🇦🇺 Australia
+953,Pop Mart International Group9992.HK,$25.85 B,$19.57,0.33%,🇨🇳 China
+954,Eversource EnergyES,$25.80 B,$68.52,0.68%,🇺🇸 USA
+955,MTR Corporation0066.HK,$25.80 B,$4.16,0.97%,🇭🇰 Hong Kong
+956,CenterPoint EnergyCNP,$25.76 B,$39.11,0.03%,🇺🇸 USA
+957,GlobalFoundriesGFS,$25.76 B,$46.95,2.15%,🇺🇸 USA
+958,Suzuki Motor7269.T,$25.72 B,$13.33,0.15%,🇯🇵 Japan
+959,ADNOC Drilling CompanyADNOCDRILL.AE,$25.70 B,$1.61,0.00%,🇦🇪 UAE
+960,Regions FinancialRF,$25.66 B,$30.13,0.60%,🇺🇸 USA
+961,Helvetia Baloise Holding AGHBAN.SW,$25.65 B,$258.95,1.15%,🇨🇭 Switzerland
+962,PPLPPL,$25.64 B,$34.08,0.38%,🇺🇸 USA
+963,EnBW EnergieEBK.DE,$25.56 B,$78.81,0.00%,🇩🇪 Germany
+964,SymboticSYM,$25.50 B,$42.13,2.51%,🇺🇸 USA
+965,Hindustan ZincHINDZINC.NS,$25.49 B,$6.03,2.89%,🇮🇳 India
+966,Raiffeisen Bank InternationalRAW.F,$25.47 B,$77.60,0.60%,🇦🇹 Austria
+967,Dover CorporationDOV,$25.46 B,$189.05,0.90%,🇺🇸 USA
+968,Texas Pacific Land CorporationTPL,$25.45 B,$369.10,0.82%,🇺🇸 USA
+969,Imperial BrandsIMB.L,$25.40 B,$33.66,0.08%,🇬🇧 UK
+970,J. B. HuntJBHT,$25.39 B,$270.45,0.98%,🇺🇸 USA
+971,Shriram Transport FinanceSHRIRAMFIN.NS,$25.33 B,$10.77,0.91%,🇮🇳 India
+972,Huatai Securities601688.SS,$25.32 B,$2.81,0.58%,🇨🇳 China
+973,Fujifilm4901.T,$25.32 B,$21.18,0.96%,🇯🇵 Japan
+974,DSM-FirmenichDSFIR.AS,$25.31 B,$103.06,1.18%,🇨🇭 Switzerland
+975,Yili Group600887.SS,$25.28 B,$4.00,0.56%,🇨🇳 China
+976,LabCorpLH,$25.26 B,$311.54,1.49%,🇺🇸 USA
+977,ST EngineeringS63.SI,$25.23 B,$8.09,0.20%,🇸🇬 Singapore
+978,DMartDMART.NS,$25.17 B,$38.60,0.05%,🇮🇳 India
+979,ENEOS Holdings5020.T,$25.17 B,$9.48,1.11%,🇯🇵 Japan
+980,CLP Group0002.HK,$25.14 B,$9.95,0.57%,🇭🇰 Hong Kong
+981,Banco do BrasilBBAS3.SA,$25.04 B,$4.39,1.36%,🇧🇷 Brazil
+982,Expeditors InternationalEXPD,$25.03 B,$192.60,1.73%,🇺🇸 USA
+983,XylemXYL,$24.97 B,$106.96,0.38%,🇺🇸 USA
+984,FortumFORTUM.HE,$24.94 B,$27.80,0.46%,🇫🇮 Finland
+985,Dassault AviationAM.PA,$24.89 B,$323.13,0.29%,🇫🇷 France
+986,Principal Financial GroupPFG,$24.87 B,$116.16,1.05%,🇺🇸 USA
+987,Asian PaintsASIANPAINT.NS,$24.80 B,$25.88,1.02%,🇮🇳 India
+988,Aluminum Corporation of China601600.SS,$24.80 B,$1.38,1.80%,🇨🇳 China
+989,Largan Precision3008.TW,$24.75 B,$189.29,9.98%,🇹🇼 Taiwan
+990,Formosa Petrochemical6505.TW,$24.75 B,$2.60,1.56%,🇹🇼 Taiwan
+991,Moore Threads688795.SS,$24.74 B,$52.64,1.33%,🇨🇳 China
+992,LY Corporation4689.T,$24.73 B,$3.61,1.86%,🇯🇵 Japan
+993,Synchrony FinancialSYF,$24.72 B,$75.99,0.73%,🇺🇸 USA
+994,WuXi BiologicsWXXWY,$24.71 B,$12.01,0.42%,🇨🇳 China
+995,Circle Internet GroupCRCL,$24.69 B,$90.60,0.31%,🇺🇸 USA
+996,International Consolidated AirlinesBABWF,$24.69 B,$5.65,0.00%,🇪🇸 Spain
+997,E.SUN Bank2884.TW,$24.67 B,$1.45,0.54%,🇹🇼 Taiwan
+998,Verbund AGOEWA.F,$24.66 B,$70.99,0.49%,🇦🇹 Austria
+999,Bending SpoonsBSP,$24.62 B,$38.77,2.27%,🇮🇹 Italy
+1000,IncyteINCY,$24.62 B,$121.47,1.47%,🇺🇸 USA
+1001,MFHC2886.TW,$24.58 B,$1.66,1.55%,🇹🇼 Taiwan
+1002,Fox CorporationFOX,$24.57 B,$58.45,0.67%,🇺🇸 USA
+1003,Trip.comTCOM,$24.57 B,$39.02,0.83%,🇨🇳 China
+1004,First Citizens BancSharesFCNCA,$24.53 B,"$2,173",0.35%,🇺🇸 USA
+1005,AXIA Energia SAAXIA3.SA,$24.52 B,$10.69,1.62%,🇧🇷 Brazil
+1006,Aker BPAKRBP.OL,$24.45 B,$38.77,0.55%,🇳🇴 Norway
+1007,Aeon8267.T,$24.43 B,$8.83,1.91%,🇯🇵 Japan
+1008,S.F. Express002352.SZ,$24.41 B,$4.64,0.06%,🇨🇳 China
+1009,QBE InsuranceQBE.AX,$24.39 B,$16.33,0.64%,🇦🇺 Australia
+1010,West Pharmaceutical ServicesWST,$24.36 B,$346.23,0.58%,🇺🇸 USA
+1011,Canon7751.T,$24.34 B,$28.84,1.26%,🇯🇵 Japan
+1012,HubbellHUBB,$24.32 B,$460.40,1.77%,🇺🇸 USA
+1013,BioNTechBNTX,$24.29 B,$96.73,0.34%,🇩🇪 Germany
+1014,China Minsheng Bank600016.SS,$24.28 B,$0.55,0.54%,🇨🇳 China
+1015,AffirmAFRM,$24.10 B,$71.44,5.07%,🇺🇸 USA
+1016,Grupo Cibest (Bancolombia)CIB,$24.09 B,$102.04,1.05%,🇨🇴 Colombia
+1017,GF Securities000776.SZ,$24.05 B,$3.07,1.34%,🇨🇳 China
+1018,PhilipsPHG,$24.03 B,$24.59,0.04%,🇳🇱 Netherlands
+1019,Formula One GroupFWONK,$23.96 B,$95.59,0.16%,🇺🇸 USA
+1020,Tower SemiconductorTSEM,$23.90 B,$211.52,1.66%,🇮🇱 Israel
+1021,Tata SteelTATASTEEL.NS,$23.89 B,$1.92,2.02%,🇮🇳 India
+1022,Central Japan Railway9022.T,$23.86 B,$25.14,1.79%,🇯🇵 Japan
+1023,Shandong Gold Mining600547.SS,$23.86 B,$5.18,0.14%,🇨🇳 China
+1024,NRG EnergyNRG,$23.85 B,$113.46,1.62%,🇺🇸 USA
+1025,IndustrivardenINDU-A.ST,$23.84 B,$55.21,0.28%,🇸🇪 Sweden
+1026,Darden RestaurantsDRI,$23.83 B,$209.89,1.14%,🇺🇸 USA
+1027,TelefónicaTEF.MC,$23.82 B,$4.23,0.77%,🇪🇸 Spain
+1028,UniperUN0.DE,$23.74 B,$57.02,0.92%,🇩🇪 Germany
+1029,NornickelGMKN.ME,$23.74 B,$1.54,0.12%,🇷🇺 Russia
+1030,China Unicom0762.HK,$23.72 B,$0.78,4.38%,🇭🇰 Hong Kong
+1031,TapestryTPR,$23.62 B,$118.49,2.26%,🇺🇸 USA
+1032,NN GroupNN.AS,$23.58 B,$90.70,1.93%,🇳🇱 Netherlands
+1033,Chocoladefabriken Lindt & SprüngliLISP.SW,$23.53 B,"$10,304",2.55%,🇨🇭 Switzerland
+1034,Bunge Global SABG,$23.51 B,$122.41,1.75%,🇺🇸 USA
+1035,HENGTONG Optic-Electric600487.SS,$23.50 B,$9.53,2.01%,🇨🇳 China
+1036,PPG IndustriesPPG,$23.45 B,$105.50,0.43%,🇺🇸 USA
+1037,ULTA BeautyULTA,$23.37 B,$546.78,2.08%,🇺🇸 USA
+1038,Abu Dhabi Islamic Bank (ADIB)ADIB.AE,$23.37 B,$6.44,0.42%,🇦🇪 UAE
+1039,Global PaymentsGPN,$23.36 B,$88.29,0.01%,🇺🇸 USA
+1040,Alfa LavalALFA.ST,$23.31 B,$56.42,0.48%,🇸🇪 Sweden
+1041,F5FFIV,$23.31 B,$411.71,3.32%,🇺🇸 USA
+1042,KeyCorp (KeyBank)KEY,$23.30 B,$21.84,0.51%,🇺🇸 USA
+1043,Grasim IndustriesGRASIM.NS,$23.29 B,$34.35,1.12%,🇮🇳 India
+1044,AST SpaceMobileASTS,$23.29 B,$59.86,0.08%,🇺🇸 USA
+1045,Coca-Cola FEMSAKOF,$23.25 B,$110.71,0.08%,🇲🇽 Mexico
+1046,Nippon Steel5401.T,$23.24 B,$4.45,0.36%,🇯🇵 Japan
+1047,Unipol AssicurazioniUNI.MI,$23.21 B,$32.37,0.22%,🇮🇹 Italy
+1048,RivianRIVN,$23.20 B,$16.03,0.12%,🇺🇸 USA
+1049,Bandai Namco7832.T,$23.19 B,$36.16,3.75%,🇯🇵 Japan
+1050,China International Capital Corporation601995.SS,$23.17 B,$4.80,0.59%,🇨🇳 China
+1051,Northern StarNST.AX,$23.11 B,$16.23,2.74%,🇦🇺 Australia
+1052,VinhomesVHM.VN,$23.10 B,$2.81,1.25%,🇻🇳 Vietnam
+1053,SK Group034730.KS,$23.03 B,$422.34,2.91%,🇰🇷 S. Korea
+1054,PBBank (Public Bank Bhd)1295.KL,$23.03 B,$1.19,0.62%,🇲🇾 Malaysia
+1055,RokuROKU,$23.00 B,$154.93,0.53%,🇺🇸 USA
+1056,TechnoprobeTPRO.MI,$23.00 B,$35.93,3.75%,🇮🇹 Italy
+1057,China Securities (CSC Financial)601066.SS,$22.96 B,$3.54,0.21%,🇨🇳 China
+1058,MTN GroupMTN.JO,$22.94 B,$12.52,0.06%,🇿🇦 South Africa
+1059,VeraltoVLTO,$22.94 B,$94.10,0.70%,🇺🇸 USA
+1060,Verisk AnalyticsVRSK,$22.93 B,$176.20,0.19%,🇺🇸 USA
+1061,Naver035420.KS,$22.85 B,$152.80,0.48%,🇰🇷 S. Korea
+1062,EDP GroupEDP.F,$22.85 B,$5.53,0.33%,🇵🇹 Portugal
+1063,Hindalco IndustriesHINDALCO.NS,$22.80 B,$10.27,3.21%,🇮🇳 India
+1064,ZTE000063.SZ,$22.80 B,$4.77,0.62%,🇨🇳 China
+1065,Ems-ChemieEMSN.SW,$22.78 B,$974.10,0.13%,🇨🇭 Switzerland
+1066,SharkNinjaSN,$22.75 B,$160.80,1.09%,🇺🇸 USA
+1067,Casey's General StoresCASY,$22.74 B,$615.47,1.94%,🇺🇸 USA
+1068,T. Rowe PriceTROW,$22.67 B,$106.29,1.17%,🇺🇸 USA
+1069,Smurfit WestrockSW,$22.66 B,$43.22,2.39%,🇮🇪 Ireland
+1070,Geely0175.HK,$22.66 B,$2.10,2.23%,🇨🇳 China
+1071,Next plcNXT.L,$22.65 B,$198.50,1.54%,🇬🇧 UK
+1072,Bank MandiriBMRI.JK,$22.65 B,$0.24,1.61%,🇮🇩 Indonesia
+1073,Bank of Nanjing601009.SS,$22.61 B,$1.83,0.25%,🇨🇳 China
+1074,China Merchants Securities600999.SS,$22.61 B,$2.60,0.29%,🇨🇳 China
+1075,"Arxis, Inc.ARXS",$22.59 B,$52.45,0.90%,🇺🇸 USA
+1076,InterContinental Hotels GroupIHG,$22.55 B,$153.83,0.69%,🇬🇧 UK
+1077,VAT GroupVACN.SW,$22.53 B,$751.87,0.62%,🇨🇭 Switzerland
+1078,Coles GroupCOL.AX,$22.52 B,$16.77,0.95%,🇦🇺 Australia
+1079,PulteGroupPHM,$22.52 B,$118.26,1.59%,🇺🇸 USA
+1080,SamsaraIOT,$22.47 B,$38.38,0.16%,🇺🇸 USA
+1081,Constellation Oil Services HoldingQG21.F,$22.46 B,$14.78,2.31%,🇱🇺 Luxembourg
+1082,First SolarFSLR,$22.46 B,$209.03,0.90%,🇺🇸 USA
+1083,SoFiSOFI,$22.36 B,$17.32,0.64%,🇺🇸 USA
+1084,Church & DwightCHD,$22.33 B,$94.15,0.22%,🇺🇸 USA
+1085,SGSSGSN.SW,$22.31 B,$112.93,0.62%,🇨🇭 Switzerland
+1086,"LS ELECTRIC Co., Ltd.010120.KS",$22.29 B,$149.83,1.47%,🇰🇷 S. Korea
+1087,Bank of Ireland GroupBIRG.IR,$22.26 B,$23.61,1.24%,🇮🇪 Ireland
+1088,AerCapAER,$22.24 B,$141.50,0.76%,🇮🇪 Ireland
+1089,Loews CorporationL,$22.23 B,$108.79,0.27%,🇺🇸 USA
+1090,Dollar TreeDLTR,$22.17 B,$118.17,0.41%,🇺🇸 USA
+1091,AmrizeAMRZ,$22.16 B,$40.52,0.20%,🇨🇭 Switzerland
+1092,Brown & BrownBRO,$22.14 B,$66.19,0.21%,🇺🇸 USA
+1093,Coca-Cola HBCCCH.L,$22.13 B,$60.75,0.04%,🇨🇭 Switzerland
+1094,"Samsung Fire & Marine Insurance Co., Ltd.000810.KS",$22.13 B,$501.16,1.75%,🇰🇷 S. Korea
+1095,Markel GroupMKL,$22.10 B,"$1,784",0.14%,🇺🇸 USA
+1096,Adani Green EnergyADANIGREEN.NS,$22.09 B,$13.41,1.37%,🇮🇳 India
+1097,Hydro OneH.TO,$22.06 B,$36.76,1.41%,🇨🇦 Canada
+1098,AmundiAMUN.PA,$22.04 B,$109.58,0.05%,🇫🇷 France
+1099,Carpenter TechnologyCRS,$21.96 B,$443.19,1.13%,🇺🇸 USA
+1100,KEPCO9503.T,$21.95 B,$19.71,2.21%,🇯🇵 Japan
+1101,Expand EnergyEXE,$21.95 B,$94.83,2.11%,🇺🇸 USA
+1102,Multiply GroupMULTIPLY.AE,$21.92 B,$0.63,3.56%,🇦🇪 UAE
+1103,TradewebTW,$21.91 B,$101.44,1.01%,🇺🇸 USA
+1104,CNH IndustrialCNH,$21.83 B,$13.58,0.59%,🇬🇧 UK
+1105,"Zhejiang Sanhua Intelligent Controls Co.,Ltd002050.SZ",$21.83 B,$5.19,0.20%,🇨🇳 China
+1106,BCE Inc.BCE,$21.81 B,$23.39,0.60%,🇨🇦 Canada
+1107,Terumo4543.T,$21.79 B,$14.78,1.16%,🇯🇵 Japan
+1108,YPF S.A.YPF,$21.77 B,$55.55,0.91%,🇦🇷 Argentina
+1109,ASUS2357.TW,$21.76 B,$29.30,0.43%,🇹🇼 Taiwan
+1110,Shenzhen Inovance300124.SZ,$21.69 B,$8.01,0.36%,🇨🇳 China
+1111,Omnicom GroupOMC,$21.67 B,$79.01,0.55%,🇺🇸 USA
+1112,GeberitGEBN.SW,$21.63 B,$668.66,0.15%,🇨🇭 Switzerland
+1113,Eicher MotorsEICHERMOT.NS,$21.63 B,$78.82,2.17%,🇮🇳 India
+1114,Edison InternationalEIX,$21.54 B,$56.00,1.32%,🇺🇸 USA
+1115,TD SynnexSNX,$21.52 B,$269.21,5.35%,🇺🇸 USA
+1116,Nan Ya PCB8046.TW,$21.52 B,$33.31,2.31%,🇹🇼 Taiwan
+1117,Dr. Sulaiman Al Habib Medical Services Group Company4013.SR,$21.47 B,$61.35,1.03%,🇸🇦 S. Arabia
+1118,MTU Aero EnginesMTX.DE,$21.45 B,$398.35,1.57%,🇩🇪 Germany
+1119,EntegrisENTG,$21.44 B,$140.37,2.16%,🇺🇸 USA
+1120,Riyad Bank1010.SR,$21.43 B,$5.38,0.83%,🇸🇦 S. Arabia
+1121,TernaTRN.MI,$21.40 B,$10.67,0.11%,🇮🇹 Italy
+1122,BombardierBBD-B.TO,$21.40 B,$216.96,1.60%,🇨🇦 Canada
+1123,SnamSRG.MI,$21.39 B,$6.37,0.47%,🇮🇹 Italy
+1124,Kingspan GroupKRX.IR,$21.38 B,$118.80,0.10%,🇮🇪 Ireland
+1125,Royal GoldRGLD,$21.37 B,$252.28,0.67%,🇺🇸 USA
+1126,International Flavors & FragrancesIFF,$21.33 B,$83.61,0.52%,🇺🇸 USA
+1127,XPO LogisticsXPO,$21.33 B,$182.18,0.09%,🇺🇸 USA
+1128,United TherapeuticsUTHR,$21.32 B,$497.11,1.34%,🇺🇸 USA
+1129,Traton8TRA.DE,$21.30 B,$42.61,1.16%,🇩🇪 Germany
+1130,JX Advanced Metals5016.T,$21.28 B,$23.82,0.87%,🇯🇵 Japan
+1131,Fair Isaac (FICO)FICO,$21.28 B,$985.39,2.57%,🇺🇸 USA
+1132,Innovent Biologics1801.HK,$21.28 B,$12.20,2.30%,🇨🇳 China
+1133,Tenet HealthcareTHC,$21.23 B,$263.69,0.09%,🇺🇸 USA
+1134,CK Infrastructure1038.HK,$21.18 B,$8.41,0.53%,🇭🇰 Hong Kong
+1135,Coeur MiningCDE,$21.15 B,$20.58,1.18%,🇺🇸 USA
+1136,Guardant HealthGH,$21.11 B,$157.38,1.04%,🇺🇸 USA
+1137,Industrias PeñolesPE&OLES.MX,$21.11 B,$53.12,0.35%,🇲🇽 Mexico
+1138,Solar Industries IndiaSOLARINDS.NS,$21.11 B,$233.30,0.36%,🇮🇳 India
+1139,CK Asset Holdings1113.HK,$21.08 B,$6.02,0.48%,🇭🇰 Hong Kong
+1140,Banco de ChileBCH,$21.07 B,$41.72,0.33%,🇨🇱 Chile
+1141,CMS EnergyCMS,$21.05 B,$67.15,0.78%,🇺🇸 USA
+1142,Fuyao Glass Industry Group600660.SS,$21.03 B,$8.06,0.07%,🇨🇳 China
+1143,MACOM Technology SolutionsMTSI,$20.99 B,$274.90,0.91%,🇺🇸 USA
+1144,Legal & GeneralLGEN.L,$20.98 B,$3.88,0.38%,🇬🇧 UK
+1145,DowDOW,$20.96 B,$29.03,2.06%,🇺🇸 USA
+1146,CIMB Group1023.KL,$20.95 B,$1.94,1.28%,🇲🇾 Malaysia
+1147,Constellation BrandsSTZ,$20.91 B,$122.45,1.10%,🇺🇸 USA
+1148,Packaging Corporation of AmericaPKG,$20.88 B,$234.40,0.86%,🇺🇸 USA
+1149,Pan American SilverPAAS,$20.87 B,$50.34,0.61%,🇨🇦 Canada
+1150,QNB FinansbankQNBTR.IS,$20.84 B,$3.79,0.00%,🇹🇷 Turkey
+1151,Sinopac Financial Holdings2890.TW,$20.81 B,$1.41,2.06%,🇹🇼 Taiwan
+1152,KGI Financial Holding2883.TW,$20.71 B,$1.22,2.11%,🇹🇼 Taiwan
+1153,Bayan ResourcesBYAN.JK,$20.68 B,$0.62,11.54%,🇮🇩 Indonesia
+1154,Bank of Shanghai601229.SS,$20.67 B,$1.46,0.41%,🇨🇳 China
+1155,Erste Bank PolskaEBP.WA,$20.67 B,$202.28,0.69%,🇵🇱 Poland
+1156,Curtiss-WrightCW,$20.64 B,$558.90,0.15%,🇺🇸 USA
+1157,US FoodsUSFD,$20.62 B,$95.34,0.75%,🇺🇸 USA
+1158,LyondellBasellLYB,$20.57 B,$63.69,0.95%,🇺🇸 USA
+1159,SterisSTE,$20.54 B,$210.76,0.80%,🇮🇪 Ireland
+1160,Lundin MiningLUN.TO,$20.53 B,$24.13,3.04%,🇨🇦 Canada
+1161,TVS MotorTVSMOTOR.NS,$20.51 B,$43.18,0.08%,🇮🇳 India
+1162,Hua Nan Financial Holdings2880.TW,$20.48 B,$1.46,0.65%,🇹🇼 Taiwan
+1163,Banco SabadellSAB.MC,$20.44 B,$4.33,2.13%,🇪🇸 Spain
+1164,Partners GroupPGHN.SW,$20.40 B,$792.01,1.04%,🇨🇭 Switzerland
+1165,Kubota6326.T,$20.39 B,$18.10,0.02%,🇯🇵 Japan
+1166,StellantisSTLA,$20.34 B,$5.40,2.27%,🇳🇱 Netherlands
+1167,Kaō4452.T,$20.31 B,$22.46,1.95%,🇯🇵 Japan
+1168,Western MidstreamWES,$20.25 B,$49.03,1.74%,🇺🇸 USA
+1169,Ralph LaurenRL,$20.20 B,$339.09,0.72%,🇺🇸 USA
+1170,SantosSTO.AX,$20.19 B,$6.22,1.22%,🇦🇺 Australia
+1171,China Tower0788.HK,$20.18 B,$1.15,0.28%,🇨🇳 China
+1172,Banco Comercial Português (Millennium bcp)BCP.LS,$20.17 B,$1.38,2.32%,🇵🇹 Portugal
+1173,SAIC Motor600104.SS,$20.17 B,$1.75,0.43%,🇨🇳 China
+1174,CF IndustriesCF,$20.13 B,$133.07,1.51%,🇺🇸 USA
+1175,Mizrahi-TefahotMZTF.TA,$20.13 B,$77.31,0.38%,🇮🇱 Israel
+1176,InterGlobe Aviation (IndiGo)INDIGO.NS,$20.12 B,$52.05,0.57%,🇮🇳 India
+1177,RelianceRS,$20.12 B,$394.21,0.46%,🇺🇸 USA
+1178,Banca MediolanumBMED.MI,$20.11 B,$27.14,1.25%,🇮🇹 Italy
+1179,Lasertec6920.T,$20.10 B,$224.25,0.26%,🇯🇵 Japan
+1180,Alpha DhabiALPHADHABI.AE,$20.09 B,$2.01,0.14%,🇦🇪 UAE
+1181,PT Amman Mineral Internasional TbkAMMN.JK,$20.07 B,$0.28,0.41%,🇮🇩 Indonesia
+1182,China Northern Rare Earth (CNREHT)600111.SS,$20.06 B,$5.55,0.69%,🇨🇳 China
+1183,Indian OilIOC.NS,$19.96 B,$1.41,0.13%,🇮🇳 India
+1184,GenmabGMAB,$19.96 B,$32.47,0.74%,🇩🇰 Denmark
+1185,Sociedad Química y MineraSQM,$19.96 B,$69.88,3.60%,🇨🇱 Chile
+1186,Lite-On Technology2301.TW,$19.91 B,$8.78,0.36%,🇹🇼 Taiwan
+1187,Permian ResourcesPR,$19.91 B,$23.78,0.34%,🇺🇸 USA
+1188,WoodwardWWD,$19.91 B,$337.26,1.35%,🇺🇸 USA
+1189,NiSourceNI,$19.85 B,$41.41,0.02%,🇺🇸 USA
+1190,HD Hyundai Electric267260.KS,$19.85 B,$551.72,0.67%,🇰🇷 S. Korea
+1191,EquifaxEFX,$19.85 B,$169.00,0.57%,🇺🇸 USA
+1192,Rongsheng Petrochemical002493.SZ,$19.82 B,$1.98,2.13%,🇨🇳 China
+1193,China National Uranium001280.SZ,$19.81 B,$9.58,0.03%,🇨🇳 China
+1194,CapgeminiCAP.PA,$19.79 B,$119.26,1.38%,🇫🇷 France
+1195,Alinma Bank1150.SR,$19.79 B,$6.60,1.55%,🇸🇦 S. Arabia
+1196,Torrent PharmaceuticalsTORNTPHARM.NS,$19.76 B,$51.97,0.72%,🇮🇳 India
+1197,Evolution MiningEVN.AX,$19.74 B,$9.66,3.54%,🇦🇺 Australia
+1198,WärtsiläWRT1V.HE,$19.74 B,$33.50,0.28%,🇫🇮 Finland
+1199,Singapore ExchangeS68.SI,$19.74 B,$18.44,3.79%,🇸🇬 Singapore
+1200,Nidec6594.T,$19.68 B,$17.17,1.90%,🇯🇵 Japan
+1201,China Galaxy Securities601881.SS,$19.67 B,$1.80,1.34%,🇨🇳 China
+1202,SBA CommunicationsSBAC,$19.67 B,$185.47,2.23%,🇺🇸 USA
+1203,Cellnex TelecomCLNX.MC,$19.67 B,$29.75,1.74%,🇪🇸 Spain
+1204,Fidelity National Information ServicesFIS,$19.66 B,$38.14,0.16%,🇺🇸 USA
+1205,BouyguesEN.PA,$19.65 B,$50.97,0.30%,🇫🇷 France
+1206,Charter CommunicationsCHTR,$19.64 B,$145.77,3.71%,🇺🇸 USA
+1207,Eurobank Ergasias Services and HoldingsEUROB.AT,$19.62 B,$5.47,1.46%,🇬🇷 Greece
+1208,Hanwha Ocean (DSME)042660.KS,$19.59 B,$63.95,0.47%,🇰🇷 S. Korea
+1209,Arca ContinentalAC.MX,$19.57 B,$11.53,0.36%,🇲🇽 Mexico
+1210,AmcorAMCR,$19.56 B,$42.32,1.58%,🇨🇭 Switzerland
+1211,Rogers CommunicationsRCI,$19.56 B,$36.21,0.33%,🇨🇦 Canada
+1212,TelenorTEL.OL,$19.55 B,$14.39,0.30%,🇳🇴 Norway
+1213,Hyosung Heavy Industries Corporation298040.KS,$19.52 B,"$2,097",1.19%,🇰🇷 S. Korea
+1214,AVIC Shenyang Aircraft Company Limited600760.SS,$19.52 B,$6.89,3.81%,🇨🇳 China
+1215,BorougeBOROUGE.AE,$19.47 B,$0.65,0.00%,🇦🇪 UAE
+1216,Snap-onSNA,$19.42 B,$375.44,0.16%,🇺🇸 USA
+1217,Sumitomo Realty & Development8830.T,$19.37 B,$20.98,0.47%,🇯🇵 Japan
+1218,Unity SoftwareU,$19.34 B,$43.96,4.49%,🇺🇸 USA
+1219,Nippon Yūsen9101.T,$19.33 B,$47.90,1.42%,🇯🇵 Japan
+1220,MasTecMTZ,$19.30 B,$240.41,3.54%,🇺🇸 USA
+1221,CDW CorporationCDW,$19.22 B,$153.79,7.85%,🇺🇸 USA
+1222,Southwest AirlinesLUV,$19.19 B,$39.24,1.42%,🇺🇸 USA
+1223,FedEx FreightFDXF,$19.18 B,$128.31,3.46%,🇺🇸 USA
+1224,CRRC1766.HK,$19.17 B,$0.67,0.95%,🇨🇳 China
+1225,LennarLEN,$19.17 B,$79.60,2.18%,🇺🇸 USA
+1226,HF SinclairDINO,$19.17 B,$107.84,0.11%,🇺🇸 USA
+1227,General MillsGIS,$19.16 B,$35.85,0.31%,🇺🇸 USA
+1228,HD Korea Shipbuilding & Offshore Engineering009540.KS,$19.16 B,$271.03,0.27%,🇰🇷 S. Korea
+1229,Kaspi.kz Joint Stock CompanyKKS.F,$19.14 B,$98.98,2.15%,🇰🇿 Kazakhstan
+1230,Woori Financial GroupWF,$19.14 B,$78.87,5.78%,🇰🇷 S. Korea
+1231,IHH HealthcareQ0F.SI,$19.12 B,$2.11,0.00%,🇲🇾 Malaysia
+1232,Broadridge Financial SolutionsBR,$19.12 B,$167.74,0.30%,🇺🇸 USA
+1233,FTAI AviationFTAI,$19.10 B,$186.06,3.32%,🇺🇸 USA
+1234,Bank of Hangzhou600926.SS,$19.07 B,$2.63,0.80%,🇨🇳 China
+1235,Best BuyBBY,$19.04 B,$90.80,3.08%,🇺🇸 USA
+1236,SiTimeSITM,$19.04 B,$635.66,5.54%,🇺🇸 USA
+1237,Knorr-BremseKBX.DE,$19.03 B,$118.10,0.49%,🇩🇪 Germany
+1238,POSCOPKX,$19.03 B,$62.94,2.18%,🇰🇷 S. Korea
+1239,Baosteel600019.SS,$19.03 B,$0.87,0.34%,🇨🇳 China
+1240,Shanghai International Port Group (SIPG)600018.SS,$18.98 B,$0.82,0.36%,🇨🇳 China
+1241,ViatrisVTRS,$18.96 B,$16.51,0.79%,🇺🇸 USA
+1242,Telefonica BrasilVIV,$18.93 B,$11.85,0.59%,🇧🇷 Brazil
+1243,Chery Automobile9973.HK,$18.90 B,$3.25,2.33%,🇨🇳 China
+1244,KGHM Polska MiedźKGH.WA,$18.86 B,$94.30,1.40%,🇵🇱 Poland
+1245,SS&C TechnologiesSSNC,$18.83 B,$80.27,1.71%,🇺🇸 USA
+1246,Telecom ItaliaTIT.MI,$18.82 B,$8.83,1.82%,🇮🇹 Italy
+1247,EvergyEVRG,$18.81 B,$81.62,0.32%,🇺🇸 USA
+1248,IHI Corporation7013.T,$18.81 B,$17.75,2.40%,🇯🇵 Japan
+1249,Konami Holdings9766.T,$18.81 B,$138.79,2.94%,🇯🇵 Japan
+1250,Essex Property TrustESS,$18.81 B,$272.91,0.57%,🇺🇸 USA
+1251,Bank Pekao (Bank Polska Kasa Opieki)PEO.WA,$18.80 B,$71.66,0.68%,🇵🇱 Poland
+1252,Julius BärBAER.SW,$18.78 B,$91.32,0.27%,🇨🇭 Switzerland
+1253,ASICS Corporation7936.T,$18.77 B,$26.48,2.08%,🇯🇵 Japan
+1254,Nomura Research Institute4307.T,$18.73 B,$33.45,4.94%,🇯🇵 Japan
+1255,Daiwa House1925.T,$18.72 B,$30.22,1.07%,🇯🇵 Japan
+1256,Krung Thai BankKTB.BK,$18.68 B,$1.34,1.14%,🇹🇭 Thailand
+1257,KE HoldingsBEKE,$18.65 B,$16.93,1.44%,🇨🇳 China
+1258,Tyson FoodsTSN,$18.63 B,$52.98,0.99%,🇺🇸 USA
+1259,TPG Inc.TPG,$18.62 B,$47.69,1.62%,🇺🇸 USA
+1260,Great Wall Motors601633.SS,$18.61 B,$2.18,0.76%,🇨🇳 China
+1261,SabespSBS,$18.60 B,$5.29,0.56%,🇧🇷 Brazil
+1262,ToastTOST,$18.56 B,$32.12,0.56%,🇺🇸 USA
+1263,HalmaHLMA.L,$18.55 B,$49.12,1.28%,🇬🇧 UK
+1264,BeiersdorfBEI.DE,$18.53 B,$84.98,0.03%,🇩🇪 Germany
+1265,Norsk HydroNHY.OL,$18.50 B,$9.42,3.80%,🇳🇴 Norway
+1266,Hyundai Motor IndiaHYUNDAI.NS,$18.48 B,$22.75,1.41%,🇮🇳 India
+1267,PTT Exploration and ProductionPTTEP.BK,$18.47 B,$4.65,0.32%,🇹🇭 Thailand
+1268,The Saudi British Bank1060.SR,$18.43 B,$8.97,0.30%,🇸🇦 S. Arabia
+1269,Genuine Parts CompanyGPC,$18.42 B,$133.68,0.36%,🇺🇸 USA
+1270,Tenaga NasionalTNABY,$18.42 B,$12.64,0.86%,🇲🇾 Malaysia
+1271,Plains All American PipelinePAA,$18.41 B,$26.10,1.50%,🇺🇸 USA
+1272,Telia CompanyTELIA.ST,$18.40 B,$4.68,0.02%,🇸🇪 Sweden
+1273,VodacomVOD.JO,$18.40 B,$9.53,2.08%,🇿🇦 South Africa
+1274,National Bank of GreeceETE.AT,$18.36 B,$20.49,1.96%,🇬🇷 Greece
+1275,StraumannSTMN.SW,$18.36 B,$115.16,0.56%,🇨🇭 Switzerland
+1276,Advantech2395.TW,$18.35 B,$21.12,0.74%,🇹🇼 Taiwan
+1277,MashreqbankMASQ.AE,$18.35 B,$91.49,0.00%,🇦🇪 UAE
+1278,ITTITT,$18.33 B,$204.14,4.03%,🇺🇸 USA
+1279,EuronextENX.PA,$18.28 B,$183.36,1.31%,🇳🇱 Netherlands
+1280,Wistron Corporation3231.TW,$18.22 B,$5.73,2.16%,🇹🇼 Taiwan
+1281,Wilmar InternationalF34.SI,$18.21 B,$2.92,0.27%,🇸🇬 Singapore
+1282,ageasAGS.BR,$18.21 B,$87.04,1.56%,🇧🇪 Belgium
+1283,Galaxy Entertainment0027.HK,$18.20 B,$4.16,0.55%,🇭🇰 Hong Kong
+1284,International PaperIP,$18.19 B,$34.36,0.20%,🇺🇸 USA
+1285,EssityESSITY-B.ST,$18.17 B,$26.89,0.53%,🇸🇪 Sweden
+1286,First Financial Holding2892.TW,$18.13 B,$1.26,2.70%,🇹🇼 Taiwan
+1287,CSG N.V. (The Czechoslovak Group)CSG.AS,$18.13 B,$18.13,4.80%,🇨🇿 Czech Republic
+1288,Samvardhana MothersonMOTHERSON.NS,$18.12 B,$1.72,0.77%,🇮🇳 India
+1289,Gen DigitalGEN,$18.11 B,$30.26,0.98%,🇺🇸 USA
+1290,MKS InstrumentsMKSI,$18.07 B,$267.31,2.09%,🇺🇸 USA
+1291,Galp EnergiaGZ5.F,$17.98 B,$24.87,0.47%,🇵🇹 Portugal
+1292,Grupo CarsoGCARSOA1.MX,$17.97 B,$7.98,0.26%,🇲🇽 Mexico
+1293,Furukawa Electric5801.T,$17.92 B,$25.48,1.61%,🇯🇵 Japan
+1294,Kazatomprom0ZQ.F,$17.91 B,$69.08,4.18%,🇰🇿 Kazakhstan
+1295,China Steel2002A.TW,$17.90 B,$1.17,0.27%,🇹🇼 Taiwan
+1296,KasikornbankKBANK.BK,$17.90 B,$7.56,2.45%,🇹🇭 Thailand
+1297,Hongkong LandH78.SI,$17.87 B,$8.39,1.06%,🇭🇰 Hong Kong
+1298,BramblesBXB.AX,$17.85 B,$13.41,0.54%,🇦🇺 Australia
+1299,C. H. RobinsonCHRW,$17.85 B,$152.78,0.24%,🇺🇸 USA
+1300,Zhongjin Gold600489.SS,$17.84 B,$3.68,0.65%,🇨🇳 China
+1301,KPNKPN.AS,$17.84 B,$4.73,0.54%,🇳🇱 Netherlands
+1302,Swire Properties1972.HK,$17.83 B,$3.10,0.41%,🇭🇰 Hong Kong
+1303,RubrikRBRK,$17.83 B,$86.65,2.54%,🇺🇸 USA
+1304,Zimmer BiometZBH,$17.83 B,$93.49,1.14%,🇺🇸 USA
+1305,Hengli Petrochemical600346.SS,$17.83 B,$2.53,1.62%,🇨🇳 China
+1306,NutanixNTNX,$17.81 B,$65.92,0.76%,🇺🇸 USA
+1307,Bank of Beijing601169.SS,$17.81 B,$0.84,1.07%,🇨🇳 China
+1308,VonoviaVNA.DE,$17.80 B,$20.98,0.89%,🇩🇪 Germany
+1309,DWS GroupDWS.F,$17.76 B,$88.84,0.20%,🇩🇪 Germany
+1310,Saudi Electricity5110.SR,$17.75 B,$4.26,1.72%,🇸🇦 S. Arabia
+1311,East West BancorpEWBC,$17.69 B,$129.17,0.15%,🇺🇸 USA
+1312,SBI Life InsuranceSBILIFE.NS,$17.69 B,$17.63,0.93%,🇮🇳 India
+1313,Magna InternationalMGA,$17.69 B,$66.13,1.52%,🇨🇦 Canada
+1314,Air China601111.SS,$17.69 B,$0.86,0.34%,🇨🇳 China
+1315,Powszechny Zakład UbezpieczeńPZU.WA,$17.68 B,$20.48,1.25%,🇵🇱 Poland
+1316,BankinterBKT.MC,$17.63 B,$19.62,1.80%,🇪🇸 Spain
+1317,SPEEH HidroelectricaH2O.RO,$17.62 B,$39.17,2.74%,Romania
+1318,OvintivOVV,$17.61 B,$63.69,0.48%,🇺🇸 USA
+1319,Korea Zinc010130.KS,$17.60 B,$863.27,1.53%,🇰🇷 S. Korea
+1320,Adani Energy SolutionsADANIENSOL.NS,$17.57 B,$14.37,1.36%,🇮🇳 India
+1321,News CorpNWS,$17.54 B,$32.71,0.21%,🇺🇸 USA
+1322,WSP GlobalWSP.TO,$17.51 B,$129.95,0.69%,🇨🇦 Canada
+1323,NordsonNDSN,$17.51 B,$314.47,2.28%,🇺🇸 USA
+1324,Hwatsing Technology688120.SS,$17.47 B,$35.20,0.42%,🇨🇳 China
+1325,Flutter EntertainmentFLUT,$17.45 B,$100.56,1.91%,🇮🇪 Ireland
+1326,Alliant EnergyLNT,$17.43 B,$67.26,0.01%,🇺🇸 USA
+1327,Associated British FoodsABF.L,$17.41 B,$24.92,0.89%,🇬🇧 UK
+1328,WESCO InternationalWCC,$17.36 B,$356.32,3.73%,🇺🇸 USA
+1329,BE SemiconductorBESI.AS,$17.36 B,$219.34,2.80%,🇳🇱 Netherlands
+1330,Pernod RicardRI.PA,$17.34 B,$68.87,0.13%,🇫🇷 France
+1331,Ascendis PharmaASND,$17.33 B,$263.52,0.87%,🇩🇰 Denmark
+1332,CarlsbergCARL-B.CO,$17.31 B,$131.02,2.29%,🇩🇰 Denmark
+1333,IREN (Iris Energy)IREN,$17.27 B,$43.83,0.44%,🇦🇺 Australia
+1334,CVC Capital Partners plcCVC.AS,$17.26 B,$15.83,0.07%,Jersey
+1335,SDIC Power Holdings600886.SS,$17.26 B,$2.16,0.07%,🇨🇳 China
+1336,Tourmaline OilTOU.TO,$17.20 B,$44.26,1.57%,🇨🇦 Canada
+1337,Tractor SupplyTSCO,$17.19 B,$33.01,1.52%,🇺🇸 USA
+1338,SK Innovation096770.KS,$17.19 B,$102.24,5.04%,🇰🇷 S. Korea
+1339,Onto InnovationONTO,$17.19 B,$281.26,4.59%,🇺🇸 USA
+1340,China Overseas Land & Investment0688.HK,$17.16 B,$1.57,1.44%,🇭🇰 Hong Kong
+1341,ASR NederlandASRNL.AS,$17.16 B,$85.14,1.10%,🇳🇱 Netherlands
+1342,Dupont De NemoursDD,$17.14 B,$126.99,0.26%,🇺🇸 USA
+1343,MetsoMETSO.HE,$17.10 B,$20.65,0.56%,🇫🇮 Finland
+1344,Franklin ResourcesBEN,$17.09 B,$33.65,0.03%,🇺🇸 USA
+1345,Wolters KluwerWKL.AS,$17.08 B,$76.77,0.06%,🇳🇱 Netherlands
+1346,SEGROSGRO.L,$17.07 B,$12.62,0.09%,🇬🇧 UK
+1347,Clean HarborsCLH,$17.04 B,$322.82,0.59%,🇺🇸 USA
+1348,Lattice SemiconductorLSCC,$17.00 B,$119.76,4.92%,🇺🇸 USA
+1349,COSCO Shipping Energy600026.SS,$16.99 B,$3.11,0.00%,🇨🇳 China
+1350,Vodafone IdeaIDEA.NS,$16.97 B,$0.16,0.47%,🇮🇳 India
+1351,Nippon Paint4612.T,$16.97 B,$7.32,2.55%,🇯🇵 Japan
+1352,Industries QatarIQCD.QA,$16.95 B,$2.80,2.00%,🇶🇦 Qatar
+1353,FalabellaFALABELLA.SN,$16.92 B,$6.75,0.78%,🇨🇱 Chile
+1354,Airtel AfricaAAF.L,$16.92 B,$4.66,0.58%,🇬🇧 UK
+1355,Hong Kong and China Gas0003.HK,$16.91 B,$0.91,0.97%,🇭🇰 Hong Kong
+1356,Kuaishou Technology1024.HK,$16.88 B,$3.92,1.60%,🇨🇳 China
+1357,Daiwa Securities Group8601.T,$16.86 B,$12.15,1.38%,🇯🇵 Japan
+1358,Zangge Mining Company000408.SZ,$16.85 B,$10.74,0.83%,🇨🇳 China
+1359,Public Power CorporationPPC.AT,$16.78 B,$28.58,0.80%,🇬🇷 Greece
+1360,B3B3SA3.SA,$16.78 B,$3.37,2.15%,🇧🇷 Brazil
+1361,Sumitomo Metal Mining5713.T,$16.78 B,$62.50,1.33%,🇯🇵 Japan
+1362,Al Dar PropertiesALDAR.AE,$16.72 B,$2.13,0.13%,🇦🇪 UAE
+1363,WiproWIT,$16.71 B,$1.69,1.20%,🇮🇳 India
+1364,RollinsROL,$16.71 B,$34.73,0.49%,🇺🇸 USA
+1365,DLFDLF.NS,$16.69 B,$6.75,1.73%,🇮🇳 India
+1366,PidilitePIDILITIND.NS,$16.69 B,$16.40,0.13%,🇮🇳 India
+1367,mBankMBK.WA,$16.67 B,$392.20,1.46%,🇵🇱 Poland
+1368,Secom9735.T,$16.65 B,$41.75,1.31%,🇯🇵 Japan
+1369,Evolution GamingEVO.ST,$16.64 B,$90.07,1.25%,🇸🇪 Sweden
+1370,Tata MotorsTATAMOTORS.NS,$16.63 B,$4.52,0.00%,🇮🇳 India
+1371,Resonac Holdings Corporation4004.T,$16.61 B,$87.61,5.77%,🇯🇵 Japan
+1372,Jacobs EngineeringJ,$16.60 B,$141.85,0.94%,🇺🇸 USA
+1373,Banco Santander-ChileBSAC,$16.57 B,$35.19,0.23%,🇨🇱 Chile
+1374,Zebra TechnologiesZBRA,$16.57 B,$350.37,1.85%,🇺🇸 USA
+1375,Power Assets0006.HK,$16.57 B,$7.78,0.33%,🇭🇰 Hong Kong
+1376,Zhejiang Century Huatong002602.SZ,$16.55 B,$2.25,3.21%,🇨🇳 China
+1377,Blue Owl CapitalOWL,$16.54 B,$10.56,1.25%,🇺🇸 USA
+1378,IDEXIEX,$16.52 B,$224.21,1.24%,🇺🇸 USA
+1379,James Hardie IndustriesJHX,$16.52 B,$28.47,0.99%,🇮🇪 Ireland
+1380,FortiveFTV,$16.51 B,$54.69,0.33%,🇺🇸 USA
+1381,Annaly Capital ManagementNLY,$16.50 B,$21.90,0.45%,🇺🇸 USA
+1382,Cholamandalam Investment and FinanceCHOLAFIN.NS,$16.50 B,$19.32,0.70%,🇮🇳 India
+1383,NVRNVR,$16.49 B,"$6,161",1.19%,🇺🇸 USA
+1384,FinecoBankFBK.MI,$16.49 B,$26.96,1.53%,🇮🇹 Italy
+1385,Singapore AirlinesC6L.SI,$16.48 B,$5.23,0.45%,🇸🇬 Singapore
+1386,Huaneng Power International600011.SS,$16.48 B,$1.04,0.58%,🇨🇳 China
+1387,ComputershareCPU.AX,$16.44 B,$28.44,0.56%,🇦🇺 Australia
+1388,SonovaSOON.SW,$16.44 B,$276.81,1.39%,🇨🇭 Switzerland
+1389,MedpaceMEDP,$16.39 B,$587.52,0.75%,🇺🇸 USA
+1390,Türkiye Petrol RafinerileriTUPRS.IS,$16.39 B,$8.51,0.78%,🇹🇷 Turkey
+1391,APi GroupAPG,$16.36 B,$37.86,1.28%,🇺🇸 USA
+1392,ContinentalCON.DE,$16.34 B,$81.73,0.25%,🇩🇪 Germany
+1393,Amer SportsAS,$16.33 B,$28.07,2.41%,🇫🇮 Finland
+1394,Invitation HomesINVH,$16.26 B,$27.54,0.07%,🇺🇸 USA
+1395,Whitecap ResourcesWCP.TO,$16.25 B,$13.37,0.91%,🇨🇦 Canada
+1396,Reinsurance Group of AmericaRGA,$16.24 B,$248.72,0.51%,🇺🇸 USA
+1397,Lundin GoldLUG.TO,$16.21 B,$67.08,0.27%,🇨🇦 Canada
+1398,MillicomTIGO,$16.21 B,$96.68,0.22%,🇱🇺 Luxembourg
+1399,Luzhou Laojiao000568.SZ,$16.20 B,$11.01,0.27%,🇨🇳 China
+1400,LeidosLDOS,$16.17 B,$128.86,0.53%,🇺🇸 USA
+1401,Evergreen Marine2603.TW,$16.16 B,$7.47,0.85%,🇹🇼 Taiwan
+1402,HANMI Semiconductor042700.KS,$16.15 B,$170.28,0.87%,🇰🇷 S. Korea
+1403,TatneftTATN.ME,$16.14 B,$7.36,1.03%,🇷🇺 Russia
+1404,ABB IndiaABB.NS,$16.13 B,$76.14,0.75%,🇮🇳 India
+1405,PolyusPLZL.ME,$16.13 B,$12.01,1.13%,🇷🇺 Russia
+1406,Lingyi iTECH002600.SZ,$16.11 B,$1.98,1.60%,🇨🇳 China
+1407,Meritz Financial Group138040.KS,$16.09 B,$97.70,2.34%,🇰🇷 S. Korea
+1408,BolidenBOL.ST,$16.07 B,$56.60,0.59%,🇸🇪 Sweden
+1409,KeppelBN4.SI,$16.06 B,$8.93,0.96%,🇸🇬 Singapore
+1410,Viper EnergyVNOM,$16.05 B,$44.71,0.29%,🇺🇸 USA
+1411,BAWAG Group0B2.F,$16.04 B,$208.39,0.95%,🇦🇹 Austria
+1412,Mitsui O.S.K. Lines9104.T,$16.02 B,$46.64,1.77%,🇯🇵 Japan
+1413,Saudi Arabian Fertilizer Company2020.SR,$16.01 B,$33.64,0.47%,🇸🇦 S. Arabia
+1414,China Tourism Group Duty Free601888.SS,$15.99 B,$7.70,0.06%,🇨🇳 China
+1415,EDP RenováveisEDPR.LS,$15.99 B,$15.09,0.76%,🇪🇸 Spain
+1416,"Xi'an Eswin Material Technology Co.,Ltd.688783.SS",$15.98 B,$3.96,2.51%,🇨🇳 China
+1417,Azrieli GroupAZRG.TA,$15.96 B,$128.21,0.82%,🇮🇱 Israel
+1418,Jones Lang LaSalleJLL,$15.96 B,$346.97,1.41%,🇺🇸 USA
+1419,DiDiDIDIY,$15.95 B,$3.54,2.31%,🇨🇳 China
+1420,Jazz PharmaceuticalsJAZZ,$15.95 B,$245.80,2.21%,🇮🇪 Ireland
+1421,EVE Energy300014.SZ,$15.93 B,$7.33,1.21%,🇨🇳 China
+1422,Rede D'Or Sao LuizRDOR3.SA,$15.93 B,$7.34,1.18%,🇧🇷 Brazil
+1423,WeyerhaeuserWY,$15.89 B,$22.06,0.32%,🇺🇸 USA
+1424,Jio Financial ServicesJIOFIN.NS,$15.88 B,$2.41,0.15%,🇮🇳 India
+1425,Neurocrine BiosciencesNBIX,$15.87 B,$156.22,0.22%,🇺🇸 USA
+1426,Henderson Land Development0012.HK,$15.86 B,$3.28,1.46%,🇭🇰 Hong Kong
+1427,Ball CorporationBALL,$15.85 B,$59.90,0.27%,🇺🇸 USA
+1428,PMetal (Press Metal Aluminium)8869.KL,$15.85 B,$1.92,0.90%,🇲🇾 Malaysia
+1429,Datang International Power Generation Company601991.SS,$15.83 B,$0.86,0.69%,🇨🇳 China
+1430,Futu HoldingsFUTU,$15.80 B,$112.73,0.69%,🇭🇰 Hong Kong
+1431,Shionogi4507.T,$15.78 B,$18.55,0.87%,🇯🇵 Japan
+1432,UPM-KymmeneUPM.HE,$15.75 B,$29.87,0.59%,🇫🇮 Finland
+1433,W. P. CareyWPC,$15.74 B,$69.12,0.62%,🇺🇸 USA
+1434,Swedish Orphan BiovitrumSOBI.ST,$15.73 B,$45.12,0.09%,🇸🇪 Sweden
+1435,MapfreMAP.MC,$15.73 B,$5.13,1.24%,🇪🇸 Spain
+1436,Bharat Heavy Electricals LimitedBHEL.NS,$15.70 B,$4.51,0.35%,🇮🇳 India
+1437,SITC International1308.HK,$15.69 B,$5.83,0.84%,🇭🇰 Hong Kong
+1438,Korea Electric PowerKEP,$15.67 B,$12.21,2.69%,🇰🇷 S. Korea
+1439,APA CorporationAPA,$15.67 B,$44.73,0.45%,🇺🇸 USA
+1440,RBC BearingsRBC,$15.66 B,$494.83,3.51%,🇺🇸 USA
+1441,Sieyuan Electric002028.SZ,$15.65 B,$20.01,0.36%,🇨🇳 China
+1442,China Three Gorges Renewables600905.SS,$15.64 B,$0.55,0.27%,🇨🇳 China
+1443,Trent LimitedTRENT.NS,$15.64 B,$29.33,0.58%,🇮🇳 India
+1444,Nexon3659.T,$15.63 B,$20.07,0.52%,🇯🇵 Japan
+1445,Sterling InfrastructureSTRL,$15.63 B,$511.04,5.40%,🇺🇸 USA
+1446,South32S32.AX,$15.62 B,$3.49,2.89%,🇦🇺 Australia
+1447,SemtechSMTC,$15.60 B,$167.24,5.10%,🇺🇸 USA
+1448,Yangzijiang Shipbuilding (Holdings) Ltd.BS6.SI,$15.58 B,$3.96,0.80%,🇨🇳 China
+1449,ZTO ExpressZTO,$15.57 B,$20.61,1.15%,🇨🇳 China
+1450,Unibail-Rodamco-WestfieldURW.PA,$15.56 B,$107.67,0.13%,🇫🇷 France
+1451,Kimco RealtyKIM,$15.55 B,$23.19,0.43%,🇺🇸 USA
+1452,ING Bank SlaskiING.WA,$15.54 B,$119.52,0.18%,🇵🇱 Poland
+1453,PharmaEssentia6446.TW,$15.54 B,$37.57,7.03%,🇹🇼 Taiwan
+1454,LG Chem051910.KS,$15.54 B,$198.53,2.19%,🇰🇷 S. Korea
+1455,RB GlobalRBA,$15.48 B,$83.60,3.80%,🇨🇦 Canada
+1456,GFL EnvironmentalGFL,$15.46 B,$42.85,2.93%,🇨🇦 Canada
+1457,Corebridge FinancialCRBG,$15.45 B,$34.67,1.43%,🇺🇸 USA
+1458,Host Hotels & ResortsHST,$15.45 B,$22.24,0.45%,🇺🇸 USA
+1459,Banco de Crédito e InversionesBCI.SN,$15.44 B,$70.65,1.51%,🇨🇱 Chile
+1460,T&D Holdings8795.T,$15.43 B,$32.53,1.48%,🇯🇵 Japan
+1461,AramarkARMK,$15.43 B,$58.55,3.15%,🇺🇸 USA
+1462,CemexCX,$15.42 B,$10.69,0.28%,🇲🇽 Mexico
+1463,Piraeus Financial HoldingsTPEIR.AT,$15.42 B,$12.52,2.81%,🇬🇷 Greece
+1464,Kerry GroupKRZ.IR,$15.38 B,$96.78,0.24%,🇮🇪 Ireland
+1465,Hyatt HotelsH,$15.36 B,$163.07,1.04%,🇺🇸 USA
+1466,AkamaiAKAM,$15.34 B,$106.79,0.32%,🇺🇸 USA
+1467,Asahi Group2502.T,$15.33 B,$10.49,1.64%,🇯🇵 Japan
+1468,The Phoenix HoldingsPHOE.TA,$15.33 B,$60.82,0.00%,🇮🇱 Israel
+1469,SCB (Siam Commercial Bank)SCB.BK,$15.31 B,$4.55,1.35%,🇹🇭 Thailand
+1470,Nippon Sanso4091.T,$15.29 B,$35.34,1.02%,🇯🇵 Japan
+1471,Admiral GroupADM.L,$15.29 B,$51.18,0.00%,🇬🇧 UK
+1472,TCL Technology Group Corporation000100.SZ,$15.28 B,$0.70,0.65%,🇨🇳 China
+1473,Sichuan Biokin Pharmaceutical688506.SS,$15.27 B,$36.99,3.96%,🇨🇳 China
+1474,INNIO N.V.INIO,$15.26 B,$20.35,3.83%,🇩🇪 Germany
+1475,Inspur000977.SZ,$15.16 B,$10.33,1.80%,🇨🇳 China
+1476,Osaka Gas9532.T,$15.15 B,$40.14,2.19%,🇯🇵 Japan
+1477,Huagong Tech000988.SZ,$15.14 B,$15.06,2.77%,🇨🇳 China
+1478,Lamar AdvertisingLAMR,$15.13 B,$149.08,0.93%,🇺🇸 USA
+1479,Guosen Securities002736.SZ,$15.13 B,$1.48,0.70%,🇨🇳 China
+1480,Hua Xia Bank600015.SS,$15.11 B,$0.95,0.31%,🇨🇳 China
+1481,Shanghai Electric Group601727.SS,$15.10 B,$0.97,0.61%,🇨🇳 China
+1482,EmeraEMA.TO,$15.10 B,$49.18,0.42%,🇨🇦 Canada
+1483,Bitmine Immersion TechnologiesBMNR,$15.09 B,$25.03,3.43%,🇺🇸 USA
+1484,Carlyle GroupCG,$15.08 B,$42.34,1.69%,🇺🇸 USA
+1485,Pershing Square Inc.PS,$15.06 B,$37.67,2.36%,🇺🇸 USA
+1486,Alamos GoldAGI,$15.03 B,$35.92,0.70%,🇨🇦 Canada
+1487,IpsenIPN.PA,$15.03 B,$182.08,0.45%,🇫🇷 France
+1488,China Satellite Communications601698.SS,$15.02 B,$3.56,1.28%,🇨🇳 China
+1489,Informa plcINF.L,$15.01 B,$12.02,1.72%,🇬🇧 UK
+1490,Burlington StoresBURL,$15.01 B,$239.04,0.42%,🇺🇸 USA
+1491,LATAM AirlinesLTM,$15.01 B,$51.29,1.20%,🇨🇱 Chile
+1492,SuncorpSUN.AX,$15.00 B,$14.15,0.92%,🇦🇺 Australia
+1493,Omega Healthcare InvestorsOHI,$15.00 B,$46.99,0.09%,🇺🇸 USA
+1494,Pinnacle Financial PartnersPNFP,$15.00 B,$99.27,0.13%,🇺🇸 USA
+1495,CG Power and Industrial SolutionsCGPOWER.NS,$14.98 B,$9.51,0.61%,🇮🇳 India
+1496,Talen EnergyTLN,$14.98 B,$312.74,0.39%,🇺🇸 USA
+1497,Grupo Financiero InbursaGFINBURO.MX,$14.96 B,$2.50,0.68%,🇲🇽 Mexico
+1498,BB Seguridade ParticipaçõesBBSE3.SA,$14.95 B,$7.70,4.13%,🇧🇷 Brazil
+1499,Gjensidige ForsikringGJF.OL,$14.95 B,$29.90,0.36%,🇳🇴 Norway
+1500,UnumUNM,$14.94 B,$94.42,0.12%,🇺🇸 USA
